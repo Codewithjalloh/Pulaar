@@ -1,0 +1,4660 @@
+[
+  {
+    "pulaar": "A jaaraama",
+    "english": "I greet you."
+  },
+  {
+    "pulaar": "On jaaraama",
+    "english": "I greet you respectful"
+  },
+  {
+    "pulaar": "Tanaa alaa",
+    "english": "Is there no evil?"
+  },
+  {
+    "pulaar": "Tanaa alaa ton",
+    "english": "is there no evil there?"
+  },
+  {
+    "pulaar": "Tanaa alaa gaa",
+    "english": "is there no evil here"
+  },
+  {
+    "pulaar": "Jam tun",
+    "english": "Peace only"
+  },
+  {
+    "pulaar": "No wa’i?",
+    "english": "what’s up"
+  },
+  {
+    "pulaar": "No marsude",
+    "english": "now is it going?"
+  },
+  {
+    "pulaar": "No marsude seeda",
+    "english": "I’m so & so"
+  },
+  {
+    "pulaar": "No marsude fota",
+    "english": "I’m fine great."
+  },
+  {
+    "pulaar": "Beynguure nden no e jam?",
+    "english": "is the family well?"
+  },
+  {
+    "pulaar": "Faybe ben no e jam?",
+    "english": "are the children well"
+  },
+  {
+    "pulaar": "Boobo on no selli",
+    "english": "is your baby healthy?"
+  },
+  {
+    "pulaar": "Ko honno beyngu maa wadi",
+    "english": "how is your wife doing"
+  },
+  {
+    "pulaar": "Golle den?",
+    "english": "and your work"
+  },
+  {
+    "pulaar": "A waalii e jam",
+    "english": "did you sleep in peace"
+  },
+  {
+    "pulaar": "On belike e jam",
+    "english": "did you sleep in peace respectfully"
+  },
+  {
+    "pulaar": "On nallii e jam",
+    "english": "have you spend the day in peace"
+  },
+  {
+    "pulaar": "On hiirii e jam",
+    "english": "have you spend the evening in peace"
+  },
+  {
+    "pulaar": "Hida e jam",
+    "english": "are you well"
+  },
+  {
+    "pulaar": "Kori hidon e jam",
+    "english": "I hope you are well? Respectful"
+  },
+  {
+    "pulaar": "Onon le?",
+    "english": "and you?"
+  },
+  {
+    "pulaar": "Hibe e jam",
+    "english": "they are well"
+  },
+  {
+    "pulaar": "Ko yettude Alla",
+    "english": "thanks be to God"
+  },
+  {
+    "pulaar": "Alhamdulilahi",
+    "english": "Thanks to be God"
+  },
+  {
+    "pulaar": "Oo-o",
+    "english": "No"
+  },
+  {
+    "pulaar": "En janngo",
+    "english": "see you tomorrow"
+  },
+  {
+    "pulaar": "En bimmbi",
+    "english": "see you in the morning"
+  },
+  {
+    "pulaar": "En ontuma",
+    "english": "see you later"
+  },
+  {
+    "pulaar": "En nalorma",
+    "english": "see you later today"
+  },
+  {
+    "pulaar": "En kiikiide",
+    "english": "see you this afternoon"
+  },
+  {
+    "pulaar": "En jemma",
+    "english": "see you tonight"
+  },
+  {
+    "pulaar": "Si Alla jabi",
+    "english": "god willing"
+  },
+  {
+    "pulaar": "A jaaraama, nani?",
+    "english": "thanks, hear?"
+  },
+  {
+    "pulaar": "Nallen e jam",
+    "english": "let’s pass the day in peace"
+  },
+  {
+    "pulaar": "Hiiren e jam",
+    "english": "let’s pass the evening in peace"
+  },
+  {
+    "pulaar": "Waleen e jam",
+    "english": "let us sleep well"
+  },
+  {
+    "pulaar": "Beloden e jam",
+    "english": "let us sleep well respectful"
+  },
+  {
+    "pulaar": "Hii-hi, Eyyo",
+    "english": "yes"
+  },
+  {
+    "pulaar": "O’o, O’owooye",
+    "english": "No"
+  },
+  {
+    "pulaar": "A jaaraama",
+    "english": "thank you"
+  },
+  {
+    "pulaar": "Awa",
+    "english": "Ok"
+  },
+  {
+    "pulaar": "Accee hakkee",
+    "english": "please excuse me"
+  },
+  {
+    "pulaar": "Pular an Lannii!",
+    "english": "that’s all the Pular I know!"
+  },
+  {
+    "pulaar": "Mi waawaa Pular buy",
+    "english": "I don’t speak much pular"
+  },
+  {
+    "pulaar": "Mido waawi pular seeda tun",
+    "english": "I speak Pular small small"
+  },
+  {
+    "pulaar": "Mi faamaali",
+    "english": "I don’t understand"
+  },
+  {
+    "pulaar": "Mido ekkitaade",
+    "english": "I am learning"
+  },
+  {
+    "pulaar": "Mi neebaali gaa",
+    "english": "I just got here"
+  },
+  {
+    "pulaar": "Munno neebataa mi waawa",
+    "english": "Be patient, I’ll learn soon"
+  },
+  {
+    "pulaar": "Mido ekkitaade haala faransi taho",
+    "english": "I need to learn French first"
+  },
+  {
+    "pulaar": "Jannoowoo",
+    "english": "teacher"
+  },
+  {
+    "pulaar": "Jannoobe",
+    "english": "teachers"
+  },
+  {
+    "pulaar": "Janngoowo",
+    "english": "student"
+  },
+  {
+    "pulaar": "Janngoobe",
+    "english": "students"
+  },
+  {
+    "pulaar": "Lekkoljo",
+    "english": "student"
+  },
+  {
+    "pulaar": "Lekkolbe",
+    "english": "students"
+  },
+  {
+    "pulaar": "Dofturjo",
+    "english": "doctor"
+  },
+  {
+    "pulaar": "Dofturbe",
+    "english": "doctors"
+  },
+  {
+    "pulaar": "Nawndoowo",
+    "english": "healer"
+  },
+  {
+    "pulaar": "Nawndoobe",
+    "english": "healers"
+  },
+  {
+    "pulaar": "Lando",
+    "english": "chief"
+  },
+  {
+    "pulaar": "Lambe",
+    "english": "chiefs"
+  },
+  {
+    "pulaar": "Defoowo",
+    "english": "cook"
+  },
+  {
+    "pulaar": "Defoobe",
+    "english": "cooks"
+  },
+  {
+    "pulaar": "Remoowo",
+    "english": "farmer"
+  },
+  {
+    "pulaar": "Remoobe",
+    "english": "farmers"
+  },
+  {
+    "pulaar": "Baylo",
+    "english": "blacksmith"
+  },
+  {
+    "pulaar": "Waylube",
+    "english": "blacksmiths"
+  },
+  {
+    "pulaar": "Almaamiijo",
+    "english": "imam"
+  },
+  {
+    "pulaar": "Almaamiibe",
+    "english": "imams"
+  },
+  {
+    "pulaar": "Yeeyoowoo",
+    "english": "seller"
+  },
+  {
+    "pulaar": "Yeeyoobe",
+    "english": "sellers"
+  },
+  {
+    "pulaar": "Njulaajo",
+    "english": "merchant"
+  },
+  {
+    "pulaar": "Njulaabe",
+    "english": "merchants"
+  },
+  {
+    "pulaar": "No’oowo",
+    "english": "tailor"
+  },
+  {
+    "pulaar": "No’oobe",
+    "english": "tailors"
+  },
+  {
+    "pulaar": "Garankeejo",
+    "english": "leatherworker"
+  },
+  {
+    "pulaar": "Garankeebe",
+    "english": "leatherworkers"
+  },
+  {
+    "pulaar": "Namakalaajo",
+    "english": "praise singer (griot)"
+  },
+  {
+    "pulaar": "Namakalaabe",
+    "english": "praise singers (griots)"
+  },
+  {
+    "pulaar": "Golloowo",
+    "english": "worker"
+  },
+  {
+    "pulaar": "Golloobe",
+    "english": "workers"
+  },
+  {
+    "pulaar": "Feetudo",
+    "english": "crazy person"
+  },
+  {
+    "pulaar": "Feetube",
+    "english": "crazy people"
+  },
+  {
+    "pulaar": "Waanoowo",
+    "english": "hunter"
+  },
+  {
+    "pulaar": "Waanoobe",
+    "english": "hunters"
+  },
+  {
+    "pulaar": "Karamokoojo",
+    "english": "marabout, teacher"
+  },
+  {
+    "pulaar": "Karamokoobe",
+    "english": "marabouts, teachers"
+  },
+  {
+    "pulaar": "Ngaynaako",
+    "english": "herdsman"
+  },
+  {
+    "pulaar": "Ngaynaabe",
+    "english": "herdsmen"
+  },
+  {
+    "pulaar": "Wolonteerjo",
+    "english": "volunteer"
+  },
+  {
+    "pulaar": "Wolonteerbe",
+    "english": "volunteers"
+  },
+  {
+    "pulaar": "Tutoowo ledde",
+    "english": "tree-planter"
+  },
+  {
+    "pulaar": "Tutoobe ledde",
+    "english": "tree-planters"
+  },
+  {
+    "pulaar": "Wolonteerjo cellal",
+    "english": "health volunteer"
+  },
+  {
+    "pulaar": "Wolonteerbe cellal",
+    "english": "health volunteers"
+  },
+  {
+    "pulaar": "Yimoowo",
+    "english": "singer"
+  },
+  {
+    "pulaar": "Yimoobe",
+    "english": "singers"
+  },
+  {
+    "pulaar": "Fijoowo",
+    "english": "actor, player"
+  },
+  {
+    "pulaar": "Fijoobe",
+    "english": "actors, players"
+  },
+  {
+    "pulaar": "Dogoowo",
+    "english": "runner, athlete"
+  },
+  {
+    "pulaar": "Dogoobe",
+    "english": "runners, athletes"
+  },
+  {
+    "pulaar": "Meniisiyeejo",
+    "english": "carpenter"
+  },
+  {
+    "pulaar": "Meniisiyeebe",
+    "english": "carpenters"
+  },
+  {
+    "pulaar": "Poliisiijo",
+    "english": "policeman"
+  },
+  {
+    "pulaar": "Poliisiibe",
+    "english": "policemen"
+  },
+  {
+    "pulaar": "Pullo",
+    "english": "peuhl"
+  },
+  {
+    "pulaar": "Fulbe",
+    "english": "peuhls"
+  },
+  {
+    "pulaar": "Maninkaajo",
+    "english": "malinke"
+  },
+  {
+    "pulaar": "Maninkaabe",
+    "english": "malinkes"
+  },
+  {
+    "pulaar": "Sosoojo",
+    "english": "soussou"
+  },
+  {
+    "pulaar": "Sosoobe",
+    "english": "soussous"
+  },
+  {
+    "pulaar": "Forestieejo",
+    "english": "forestier"
+  },
+  {
+    "pulaar": "Forestieebe",
+    "english": "forestiers"
+  },
+  {
+    "pulaar": "Portoojo",
+    "english": "white man"
+  },
+  {
+    "pulaar": "Portoobe",
+    "english": "white men"
+  },
+  {
+    "pulaar": "Baleejo",
+    "english": "black man"
+  },
+  {
+    "pulaar": "Baleebe",
+    "english": "black men"
+  },
+  {
+    "pulaar": "Gine’enjo",
+    "english": "guinean"
+  },
+  {
+    "pulaar": "Gine’enbe",
+    "english": "guineans"
+  },
+  {
+    "pulaar": "Amerikeenjo",
+    "english": "American"
+  },
+  {
+    "pulaar": "Amerikeenbe",
+    "english": "Americans"
+  },
+  {
+    "pulaar": "Faranseejo",
+    "english": "French"
+  },
+  {
+    "pulaar": "Faranseebe",
+    "english": "French"
+  },
+  {
+    "pulaar": "Senegaleelo",
+    "english": "Senegalese"
+  },
+  {
+    "pulaar": "Senegaleebe",
+    "english": "Senegalese"
+  },
+  {
+    "pulaar": "Gorko",
+    "english": "man"
+  },
+  {
+    "pulaar": "Worbe",
+    "english": "men"
+  },
+  {
+    "pulaar": "Debbo",
+    "english": "woman"
+  },
+  {
+    "pulaar": "Rewbe",
+    "english": "women"
+  },
+  {
+    "pulaar": "Paykun",
+    "english": "child"
+  },
+  {
+    "pulaar": "Paykoy",
+    "english": "children"
+  },
+  {
+    "pulaar": "Suka",
+    "english": "young person"
+  },
+  {
+    "pulaar": "Sukaabe",
+    "english": "young people"
+  },
+  {
+    "pulaar": "Jiwo",
+    "english": "girl"
+  },
+  {
+    "pulaar": "Jiwbo",
+    "english": "girls"
+  },
+  {
+    "pulaar": "Mawdo",
+    "english": "old person"
+  },
+  {
+    "pulaar": "Mawbe",
+    "english": "old people"
+  },
+  {
+    "pulaar": "Boboo",
+    "english": "baby"
+  },
+  {
+    "pulaar": "Booboobe",
+    "english": "babies"
+  },
+
+  {
+    "pulaar": "An, ko a jannoowo?",
+    "english": "you, are a teacher?"
+  },
+  {
+    "pulaar": "Hi-hi, ko mi jannoowo matematik",
+    "english": "yes I teach mathematics"
+  },
+  {
+    "pulaar": "Hanko, ko o Amerikenjo",
+    "english": "him, is he an American?"
+  },
+  {
+    "pulaar": "O’o, wonaa o amerikenjo",
+    "english": "No, he is not American"
+  },
+  {
+    "pulaar": "Ko o faranseejo",
+    "english": "he is French"
+  },
+  {
+    "pulaar": "Ko honno innetedaa?",
+    "english": "what is your name"
+  },
+  {
+    "pulaar": "Ko honno wi’etedaa",
+    "english": "what is your name"
+  },
+  {
+    "pulaar": "Ko honno yettetedaa?",
+    "english": "what is your last name"
+  },
+  {
+    "pulaar": "Innde maa?",
+    "english": "your name?"
+  },
+  {
+    "pulaar": "Yettoore maa?",
+    "english": "your last name"
+  },
+  {
+    "pulaar": "Ko Honto iwudaa?",
+    "english": "where do you come from"
+  },
+  {
+    "pulaar": "Ko amerik mi iwi",
+    "english": "that’s from America I originally"
+  },
+  {
+    "pulaar": "Ko mo a honto",
+    "english": "where are you from?"
+  },
+  {
+    "pulaar": "Ko mo mi Dakar",
+    "english": "I’m from Dakar"
+  },
+  {
+    "pulaar": "Ko hondun gollataa?",
+    "english": "What do you do (work)?"
+  },
+  {
+    "pulaar": "Wonaa jannoowo",
+    "english": "I am not a teacher"
+  },
+  {
+    "pulaar": "Ko honto hodudaa?",
+    "english": "where do you live?"
+  },
+  {
+    "pulaar": "Ko maamu mi hodi",
+    "english": "I live in Mamou"
+  },
+  {
+    "pulaar": "An le?",
+    "english": "and you?"
+  },
+  {
+    "pulaar": "Kadi",
+    "english": "also"
+  },
+  {
+    "pulaar": "Tigi tiki",
+    "english": "truly, specifically"
+  },
+  {
+    "pulaar": "A jommbii?",
+    "english": "Are you married? (Question to a man)"
+  },
+  {
+    "pulaar": "A jommbaama?",
+    "english": "Are you married? (Question to a woman)"
+  },
+  {
+    "pulaar": "Mi jommbaali",
+    "english": "I am not married (man)"
+  },
+  {
+    "pulaar": "Mi jommbaaka",
+    "english": "I am not married (woman)"
+  },
+  {
+    "pulaar": "Mi jommbii",
+    "english": "I am married (man)"
+  },
+  {
+    "pulaar": "Mi jommbaama",
+    "english": "I am married (woman)"
+  },
+  {
+    "pulaar": "Min, Ko mi jannoowo",
+    "english": "Me, I am a teacher"
+  },
+  {
+    "pulaar": "An, ko a janngoowo",
+    "english": "You, you are a student."
+  },
+  {
+    "pulaar": "Enen, ko en rewbe",
+    "english": "We (all of us) are women"
+  },
+  {
+    "pulaar": "Menen, ko men rube",
+    "english": "we are women (not you)"
+  },
+  {
+    "pulaar": "Mi",
+    "english": "I"
+  },
+  {
+    "pulaar": "Min",
+    "english": "I"
+  },
+  {
+    "pulaar": "A",
+    "english": "you (sing.)"
+  },
+  {
+    "pulaar": "An",
+    "english": "you (sing.)"
+  },
+  {
+    "pulaar": "O",
+    "english": "he, she"
+  },
+  {
+    "pulaar": "Kanko",
+    "english": "he, she"
+  },
+  {
+    "pulaar": "Men",
+    "english": "we (excluding the listener)"
+  },
+  {
+    "pulaar": "Menen",
+    "english": "we (excluding the listener)"
+  },
+  {
+    "pulaar": "En",
+    "english": "we (including the listener)"
+  },
+  {
+    "pulaar": "Even",
+    "english": "we (including the listener)"
+  },
+  {
+    "pulaar": "On",
+    "english": "you (pl.)"
+  },
+  {
+    "pulaar": "Onon",
+    "english": "you (pl.)"
+  },
+  {
+    "pulaar": "Be",
+    "english": "they"
+  },
+  {
+    "pulaar": "Kambe",
+    "english": "they"
+  },
+  {
+    "pulaar": "Mido faalaa jommbude maa",
+    "english": "I want to marry you"
+  },
+  {
+    "pulaar": "Awa, mi salataako",
+    "english": "Ok, that’s fine."
+  },
+  {
+    "pulaar": "Ko honto tenje an woni",
+    "english": "where is my dowry?"
+  },
+  {
+    "pulaar": "Dun no find",
+    "english": "That’s not adequate"
+  },
+  {
+    "pulaar": "Hida haani okkude mawbe an ben na’i sappo",
+    "english": "You’ll have too give my folks ten cows."
+  },
+  {
+    "pulaar": "Mido Mari moodi",
+    "english": "I have a husband"
+  },
+  {
+    "pulaar": "Mi yettaama",
+    "english": "I’m already taken."
+  },
+  {
+    "pulaar": "Mi anndaa maa",
+    "english": "I don’t know you."
+  },
+  {
+    "pulaar": "Mi faalaaka jommbeede",
+    "english": "I don’t want to get married"
+  },
+  {
+    "pulaar": "Mi hewtaali jommbeede taco",
+    "english": "I’m not old enough to marry"
+  },
+  {
+    "pulaar": "Mi faalaaka maa",
+    "english": "I don’t like you"
+  },
+  {
+    "pulaar": "Hida kaani",
+    "english": "You are ugly"
+  },
+  {
+    "pulaar": "Hida fandi",
+    "english": "You are small"
+  },
+  {
+    "pulaar": "Ko sagata mi faalaa",
+    "english": "I want a young man"
+  },
+  {
+    "pulaar": "Ko mawdo mi faalaa",
+    "english": "I want an old man."
+  },
+
+  {
+    "pulaar": "anndugol",
+    "english": "to know"
+  },
+  {
+    "pulaar": "benndugol",
+    "english": "to be ripe or ready"
+  },
+  {
+    "pulaar": "buubugol",
+    "english": "to be cold"
+  },
+  {
+    "pulaar": "dondegol",
+    "english": "to be thirsty"
+  },
+  {
+    "pulaar": "faalegol",
+    "english": "to want"
+  },
+  {
+    "pulaar": "hawjugol",
+    "english": "to be in a hurry"
+  },
+  {
+    "pulaar": "jeyugol",
+    "english": "to own"
+  },
+  {
+    "pulaar": "jogagol",
+    "english": "to hold"
+  },
+  {
+    "pulaar": "leetugol",
+    "english": "to be late"
+  },
+  {
+    "pulaar": "marugol",
+    "english": "to have"
+  },
+  {
+    "pulaar": "moyyugol",
+    "english": "to be good"
+  },
+  {
+    "pulaar": "nonugol",
+    "english": "to be sleepy"
+  },
+  {
+    "pulaar": "ronkugol",
+    "english": "to be tired"
+  },
+  {
+    "pulaar": "waawugol",
+    "english": "to be able(to do sth.)"
+  },
+  {
+    "pulaar": "weelegol",
+    "english": "to be hungry"
+  },
+  {
+    "pulaar": "welugol",
+    "english": "to taste good"
+  },
+  {
+    "pulaar": "wonugol",
+    "english": "to be"
+  },
+  {
+    "pulaar": "wulugol",
+    "english": "to be hot"
+  },
+  {
+    "pulaar": "yidugol",
+    "english": "to like"
+  },
+  {
+    "pulaar": "yonugol",
+    "english": "to be enough"
+  },
+  {
+    "pulaar": "beydugol",
+    "english": "to add, increase"
+  },
+  {
+    "pulaar": "defugol",
+    "english": "to cook"
+  },
+  {
+    "pulaar": "haarugol",
+    "english": "to be full"
+  },
+  {
+    "pulaar": "hebugol",
+    "english": "to obtain"
+  },
+  {
+    "pulaar": "hirtagol",
+    "english": "to eat dinner"
+  },
+  {
+    "pulaar": "hiwragol",
+    "english": "to greet"
+  },
+  {
+    "pulaar": "hudugol",
+    "english": "to live (somewhere)"
+  },
+  {
+    "pulaar": "ittugol kooje",
+    "english": "to eat breakfast"
+  },
+  {
+    "pulaar": "iwugol",
+    "english": "to come from"
+  },
+  {
+    "pulaar": "lootagol",
+    "english": "to wash oneself"
+  },
+  {
+    "pulaar": "naamugol",
+    "english": "to eat"
+  },
+  {
+    "pulaar": "soyyugol",
+    "english": "to eat lunch"
+  },
+  {
+    "pulaar": "yarugol",
+    "english": "to drink"
+  },
+  {
+    "pulaar": "yakkugol",
+    "english": "to munch, bite"
+  },
+  {
+    "pulaar": "moyya",
+    "english": "well"
+  },
+  {
+    "pulaar": "buy",
+    "english": "a lot"
+  },
+  {
+    "pulaar": "seeda",
+    "english": "a little"
+  },
+  {
+    "pulaar": "tun",
+    "english": "only"
+  },
+  {
+    "pulaar": "bantara on",
+    "english": "the cassava, manioc"
+  },
+  {
+    "pulaar": "basalle on",
+    "english": "the onion"
+  },
+  {
+    "pulaar": "biraadan dan",
+    "english": "the milk"
+  },
+  {
+    "pulaar": "bireedi on",
+    "english": "the bread"
+  },
+  {
+    "pulaar": "boofo on",
+    "english": "the egg"
+  },
+  {
+    "pulaar": "buudi on",
+    "english": "the papaya or squash"
+  },
+  {
+    "pulaar": "gerto on",
+    "english": "the chicken"
+  },
+  {
+    "pulaar": "jakatu on",
+    "english": "the bitter eggplant"
+  },
+  {
+    "pulaar": "kaaba on",
+    "english": "the corn"
+  },
+  {
+    "pulaar": "kaccu on",
+    "english": "the lemon"
+  },
+  {
+    "pulaar": "kobokobo on",
+    "english": "the eggplant"
+  },
+  {
+    "pulaar": "kosan dan",
+    "english": "the sour milk"
+  },
+  {
+    "pulaar": "lacciri ndin",
+    "english": "the corn couscous"
+  },
+  {
+    "pulaar": "landan dan",
+    "english": "the salt"
+  },
+  {
+    "pulaar": "leemune on",
+    "english": "the orange"
+  },
+  {
+    "pulaar": "liyyi din",
+    "english": "the fishes"
+  },
+  {
+    "pulaar": "maafe kon",
+    "english": "the sauce"
+  },
+  {
+    "pulaar": "maafe haako",
+    "english": "leaf sauce"
+  },
+  {
+    "pulaar": "maafe suppu",
+    "english": "“soup” sauce"
+  },
+  {
+    "pulaar": "maafe tiga",
+    "english": "peanut sauce"
+  },
+  {
+    "pulaar": "maaro kon",
+    "english": "the uncooked rice"
+  },
+  {
+    "pulaar": "mbeewa mban",
+    "english": "the goat"
+  },
+  {
+    "pulaar": "namaku on",
+    "english": "the hot pepper"
+  },
+  {
+    "pulaar": "ndiyan dan",
+    "english": "the water"
+  },
+  {
+    "pulaar": "nebban dan",
+    "english": "the oil"
+  },
+  {
+    "pulaar": "niiri ndin",
+    "english": "the cooked grain"
+  },
+  {
+    "pulaar": "piya on",
+    "english": "the avocado"
+  },
+  {
+    "pulaar": "powabar on",
+    "english": "the pepper"
+  },
+  {
+    "pulaar": "pompiteeri on",
+    "english": "the potato"
+  },
+  {
+    "pulaar": "putee on",
+    "english": "the sweet potato"
+  },
+  {
+    "pulaar": "salaadi on",
+    "english": "the lecture"
+  },
+  {
+    "pulaar": "suu on",
+    "english": "the cabbage"
+  },
+  {
+    "pulaar": "sukkar on",
+    "english": "the sugar"
+  },
+  {
+    "pulaar": "taku on",
+    "english": "the okra"
+  },
+  {
+    "pulaar": "tamaati on",
+    "english": "the tomato"
+  },
+  {
+    "pulaar": "teewu ngun",
+    "english": "the meat"
+  },
+  {
+    "pulaar": "tiga on",
+    "english": "the peanut"
+  },
+  {
+    "pulaar": "pileeti on",
+    "english": "the plate"
+  },
+  {
+    "pulaar": "kuyer on",
+    "english": "the spoon"
+  },
+  {
+    "pulaar": "furseeti on",
+    "english": "the fork"
+  },
+  {
+    "pulaar": "labi kin",
+    "english": "the knife"
+  },
+  {
+    "pulaar": "tassi on",
+    "english": "the cup"
+  },
+  {
+    "pulaar": "hurgo ngon",
+    "english": "the latrine"
+  },
+  {
+    "pulaar": "kuri on",
+    "english": "the kitchen hut"
+  },
+  {
+    "pulaar": "tannde on",
+    "english": "the gravel year"
+  },
+  {
+    "pulaar": "galle nden",
+    "english": "the family compound"
+  },
+  {
+    "pulaar": "ko hondun",
+    "english": "what"
+  },
+  {
+    "pulaar": "ko hommbo",
+    "english": "who"
+  },
+  {
+    "pulaar": "fii hondun",
+    "english": "why"
+  },
+  {
+    "pulaar": "ko honnde tuma",
+    "english": "when"
+  },
+  {
+    "pulaar": "ko jelu",
+    "english": "how much / how many (objects)"
+  },
+  {
+    "pulaar": "ko njelo",
+    "english": "how many people"
+  },
+  {
+    "pulaar": "ko honto",
+    "english": "where"
+  },
+  {
+    "pulaar": "beydu seeda",
+    "english": "eat a little more!"
+  },
+  {
+    "pulaar": "niiri no woodi?",
+    "english": "Is there any food?"
+  },
+  {
+    "pulaar": "niiri no woodi",
+    "english": "there is food"
+  },
+  {
+    "pulaar": "Alaa.",
+    "english": "There is none"
+  },
+  {
+    "pulaar": "niiri alaa",
+    "english": "there is no food."
+  },
+  {
+    "pulaar": "Yo mi addu niir",
+    "english": "Shall I bring food?"
+  },
+  {
+    "pulaar": "okkoran niiri",
+    "english": "let me have some food."
+  },
+  {
+    "pulaar": "okkoran ndiyan mi yara",
+    "english": "let me have water to drink"
+  },
+  {
+    "pulaar": "Bismillahi!",
+    "english": "welcome! (in god’s name)"
+  },
+  {
+    "pulaar": "ko tooli!",
+    "english": "welcome! (be seated)"
+  },
+  {
+    "pulaar": "Albarka",
+    "english": "thank you (God bless you)"
+  },
+  {
+    "pulaar": "barka’ alla",
+    "english": "you are welcome"
+  },
+  {
+    "pulaar": "No weli",
+    "english": "it tastes good!"
+  },
+  {
+    "pulaar": "welaa!",
+    "english": "it taste bad"
+  },
+  {
+    "pulaar": "mi haari",
+    "english": "I’m full."
+  },
+  {
+    "pulaar": "mido faalaa",
+    "english": "I want…"
+  },
+  {
+    "pulaar": "mi faalaaka",
+    "english": "I don’t want…"
+  },
+  {
+    "pulaar": "mido weelaa",
+    "english": "I’m hungry"
+  },
+  {
+    "pulaar": "mi weelaaka",
+    "english": "I’m not hungry"
+  },
+  {
+    "pulaar": "mido dondaa",
+    "english": "I’m thirsty"
+  },
+  {
+    "pulaar": "Mi dondaaka",
+    "english": "I’m not thirsty"
+  },
+  {
+    "pulaar": "mido faalaa yahude ka hurgo",
+    "english": "I need to go to the bathroom"
+  },
+  {
+    "pulaar": "niiri ndin no metti",
+    "english": "the food tastes bad"
+  },
+  {
+    "pulaar": "weelegol",
+    "english": "to be hungry"
+  },
+  {
+    "pulaar": "mettugol",
+    "english": "to taste bad"
+  },
+  {
+    "pulaar": "hibe yidi maafe tiga",
+    "english": "they like peanut sauce"
+  },
+  {
+    "pulaar": "baafal ngal no udditii",
+    "english": "the door is open"
+  },
+  {
+    "pulaar": "hida faalaa naamugol",
+    "english": "do you want to eat?"
+  },
+  {
+    "pulaar": "Mi anndaa bubakar",
+    "english": "I don’t know Bubakar"
+  },
+  {
+    "pulaar": "Baafal ngal ommbaaki",
+    "english": "The door is not shut"
+  },
+  {
+    "pulaar": "O faalaaka teewu",
+    "english": "He doesn’t want meat"
+  },
+  {
+    "pulaar": "mido weelaa",
+    "english": "I am hungry"
+  },
+  {
+    "pulaar": "kosan welaa",
+    "english": "kosan doesn’t taste good."
+  },
+  {
+    "pulaar": "himo waawi pular",
+    "english": "he can speak pular"
+  },
+  {
+    "pulaar": "Bubakar no waawi pular",
+    "english": "bubakar can speak pular"
+  },
+  {
+    "pulaar": "portojo on no weelaa",
+    "english": "the portojo is hungry"
+  },
+  {
+    "pulaar": "no moyyi",
+    "english": "that’s good!"
+  },
+  {
+    "pulaar": "maafe kon welaa",
+    "english": "the sauce is not good."
+  },
+  {
+    "pulaar": "mi weelaaka",
+    "english": "i am not hungry"
+  },
+  {
+    "pulaar": "moyyaa",
+    "english": "that’s not good!"
+  },
+  {
+    "pulaar": "ko hommbo yahi ka maakiti hannde",
+    "english": "who went to the"
+  },
+  {
+    "pulaar": "ko honto yahudaa hannde?",
+    "english": "where did you go today?"
+  },
+  {
+    "pulaar": "ko honnde tuma yahudaa ka maakiti",
+    "english": "when did you go to the market?"
+  },
+  {
+    "pulaar": "ko min yahi ka maakiti hannde.",
+    "english": "it is me who went to the market today"
+  },
+  {
+    "pulaar": "ko ka maakiti mi yahi hannde",
+    "english": "it is to the market where I went today"
+  },
+  {
+    "pulaar": "Ko hannde mi yahi ka maakiti",
+    "english": "it is today that I went to the market"
+  },
+  {
+    "pulaar": "hoorugol",
+    "english": "to fast"
+  },
+  {
+    "pulaar": "Enee, Porto, a hoorataa?",
+    "english": "Hey, porto, aren’t you fasting?"
+  },
+  {
+    "pulaar": "mi alaa hoorude",
+    "english": "I’m not fasting."
+  },
+  {
+    "pulaar": "Mi waawaali",
+    "english": "I couldn’t (do it)"
+  },
+  {
+    "pulaar": "wonaa mi juldo",
+    "english": "I’m not muslim."
+  },
+  {
+    "pulaar": "Ko hommbo defi niiri ndin?",
+    "english": "We cooked the food?"
+  },
+  {
+    "pulaar": "ko beyngu an defi",
+    "english": "my wife cooked it"
+  },
+  {
+    "pulaar": "ko honnde tuma hewtuden",
+    "english": "when did we arrive?"
+  },
+  {
+    "pulaar": "ko e dix-heures hewtuden",
+    "english": "That’s at ten o’clock we arrived"
+  },
+  {
+    "pulaar": "ko honto joodidaa",
+    "english": "where did you sit?"
+  },
+  {
+    "pulaar": "ko doo mi joodii",
+    "english": "That’s here I sat."
+  },
+  {
+    "pulaar": "Ko hondun faaladon",
+    "english": "what do you all want?"
+  },
+  {
+    "pulaar": "ko ndiyan men faalaa",
+    "english": "That’s water we want (exclusive)"
+  },
+  {
+    "pulaar": "mi haari tef",
+    "english": "I am totally full!"
+  },
+  {
+    "pulaar": "hida kaani kas!",
+    "english": "You are very ugly!"
+  },
+  {
+    "pulaar": "Dan ndiyan no wojji cos",
+    "english": "That water is totally red!"
+  },
+  {
+    "pulaar": "oto on no heewi tef!",
+    "english": "the car is completely full!"
+  },
+  {
+    "pulaar": "benndi mor",
+    "english": "very rip"
+  },
+  {
+    "pulaar": "labbi poy",
+    "english": "very clean"
+  },
+  {
+    "pulaar": "yoyi ken",
+    "english": "very clever"
+  },
+  {
+    "pulaar": "rawni pen",
+    "english": "very white"
+  },
+  {
+    "pulaar": "feewi yet",
+    "english": "very straight"
+  },
+  {
+    "pulaar": "wuli kat",
+    "english": "very hot"
+  },
+  {
+    "pulaar": "selli ken",
+    "english": "very healthy"
+  },
+  {
+    "pulaar": "tuuni tus",
+    "english": "very dirty"
+  },
+  {
+    "pulaar": "luubi dus",
+    "english": "very stinky"
+  },
+  {
+    "pulaar": "buubi jip",
+    "english": "very cold"
+  },
+  {
+    "pulaar": "bawli kis",
+    "english": "black"
+  },
+  {
+    "pulaar": "yo be aru",
+    "english": "They must come!"
+  },
+  {
+    "pulaar": "yo mi addu ndiyan",
+    "english": "Shall I bring water?"
+  },
+  {
+    "pulaar": "Himo faalaa yo a looto",
+    "english": "he wants you to bath."
+  },
+  {
+    "pulaar": "woo yo a yahu",
+    "english": "(She said) you should go (sing)"
+  },
+  {
+    "pulaar": "wata be aru",
+    "english": "They must not come!"
+  },
+  {
+    "pulaar": "wata gerto yaw ko hoccata",
+    "english": "A chicken shouldn’t sneer at what it gathers. (Beggars can’t be choosers.)"
+  },
+  {
+    "pulaar": "Ko jooni mi naami",
+    "english": "that’s now I just ate."
+  },
+  {
+    "pulaar": "Mi defaali hannde",
+    "english": "I din’t cook today"
+  },
+  {
+    "pulaar": "ko seeda nii mi defi hannde",
+    "english": "That’s just a little I cooked today"
+  },
+  {
+    "pulaar": "Fayda mi gaynii",
+    "english": "I’m almost finished"
+  },
+  {
+    "pulaar": "Saaku on, saakuuji din",
+    "english": "the bag(s)"
+  },
+  {
+    "pulaar": "Danki kin, dande den",
+    "english": "the bed(s)"
+  },
+  {
+    "pulaar": "Tablo on, tablooji din",
+    "english": "the blackboard(s)"
+  },
+  {
+    "pulaar": "Deftere nden, defte den",
+    "english": "the book(s)"
+  },
+  {
+    "pulaar": "Siyon on, siyonje den",
+    "english": "the buckets(s)"
+  },
+  {
+    "pulaar": "Jullere nden, Julie den",
+    "english": "the chair(s)"
+  },
+  {
+    "pulaar": "Lakre on, lakrekje",
+    "english": "the chalk(s)"
+  },
+  {
+    "pulaar": "nagge ngen, na’i din",
+    "english": "the cow(s)"
+  },
+  {
+    "pulaar": "baafa ngal, baafe den",
+    "english": "the door(s)"
+  },
+  {
+    "pulaar": "mbeewa mban, be’i din",
+    "english": "the goat(s)"
+  },
+  {
+    "pulaar": "labi kin, ladden den",
+    "english": "the knife(s)"
+  },
+  {
+    "pulaar": "kayee on, kayeeji din",
+    "english": "the notebook(s)"
+  },
+  {
+    "pulaar": "karambol ngol, karambi din",
+    "english": "pen(s)"
+  },
+  {
+    "pulaar": "jiifa on, jiifaaji din",
+    "english": "the pocket(s)"
+  },
+  {
+    "pulaar": "gatal ngal, gate den",
+    "english": "the prayer mat(s)"
+  },
+  {
+    "pulaar": "suudu ndun, cuudi din",
+    "english": "the room(s), the house(s)"
+  },
+  {
+    "pulaar": "lekkol ngol, lekkolji din",
+    "english": "the school, the schools"
+  },
+  {
+    "pulaar": "baalii ngii, gude den",
+    "english": "the sheet(s) of tissue, loincloth"
+  },
+  {
+    "pulaar": "dolokke on, dolakkaaji din",
+    "english": "the shirt(s)"
+  },
+  {
+    "pulaar": "padal ngal, pade den",
+    "english": "the shoe(s)"
+  },
+  {
+    "pulaar": "mboddi ndin, bolle den",
+    "english": "snake(s)"
+  },
+  {
+    "pulaar": "saabunde nden caabune den",
+    "english": "the soap(s)"
+  },
+  {
+    "pulaar": "saare nden, ca’e den",
+    "english": "the town(s)"
+  },
+  {
+    "pulaar": "leggal ngal, ledde den",
+    "english": "the tree(s)"
+  },
+  {
+    "pulaar": "maadi ndin, maadiiji",
+    "english": "the wall(s)"
+  },
+  {
+    "pulaar": "kaa?",
+    "english": "Isn’t that so? ou bien?"
+  },
+  {
+    "pulaar": "nee",
+    "english": "Right?"
+  },
+  {
+    "pulaar": "nee!",
+    "english": "Is that a fact!"
+  },
+  {
+    "pulaar": "jaka",
+    "english": "well I declare"
+  },
+  {
+    "pulaar": "naamu",
+    "english": "Yes? (answer when one’s name is called)"
+  },
+  {
+    "pulaar": "naamu",
+    "english": "(fills in the pauses someone else’s speech)"
+  },
+  {
+    "pulaar": "Ee, Allah",
+    "english": "(Mild oath, literally, “Oh, God”)"
+  },
+  {
+    "pulaar": "laa illaaha illallahu",
+    "english": "(Stronger oath; literally “There is no"
+  },
+  {
+    "pulaar": "pellet",
+    "english": "truly."
+  },
+  {
+    "pulaar": "yahugol",
+    "english": "to go"
+  },
+  {
+    "pulaar": "arugol",
+    "english": "to come"
+  },
+  {
+    "pulaar": "jonnugol",
+    "english": "to give, to send"
+  },
+  {
+    "pulaar": "yettugol",
+    "english": "to take"
+  },
+  {
+    "pulaar": "wattugol",
+    "english": "to put (cloth)"
+  },
+  {
+    "pulaar": "daragol",
+    "english": "to stand"
+  },
+  {
+    "pulaar": "joodagol",
+    "english": "to sit"
+  },
+  {
+    "pulaar": "yawugol",
+    "english": "to climb"
+  },
+  {
+    "pulaar": "cippagol",
+    "english": "get down"
+  },
+  {
+    "pulaar": "ommbugol",
+    "english": "close"
+  },
+  {
+    "pulaar": "udditugol",
+    "english": "open"
+  },
+  {
+    "pulaar": "yaltugol",
+    "english": "leave"
+  },
+  {
+    "pulaar": "naatugol",
+    "english": "enter"
+  },
+  {
+    "pulaar": "ndaarugol",
+    "english": "look"
+  },
+  {
+    "pulaar": "addugol",
+    "english": "bring"
+  },
+  {
+    "pulaar": "nabugol",
+    "english": "take, send"
+  },
+  {
+    "pulaar": "habbagol",
+    "english": "wait"
+  },
+  {
+    "pulaar": "fittugol",
+    "english": "sweep, wipe, clean"
+  },
+  {
+    "pulaar": "fijugol",
+    "english": "play"
+  },
+  {
+    "pulaar": "amugol",
+    "english": "dance"
+  },
+  {
+    "pulaar": "yimugol",
+    "english": "sing"
+  },
+  {
+    "pulaar": "gollugol",
+    "english": "work"
+  },
+  {
+    "pulaar": "winndugol",
+    "english": "write"
+  },
+  {
+    "pulaar": "janngugol",
+    "english": "study"
+  },
+  {
+    "pulaar": "jannugol",
+    "english": "teach"
+  },
+  {
+    "pulaar": "ley",
+    "english": "below, under"
+  },
+  {
+    "pulaar": "dow",
+    "english": "above, over"
+  },
+  {
+    "pulaar": "hoore",
+    "english": "on top of"
+  },
+  {
+    "pulaar": "takko",
+    "english": "beside, next to"
+  },
+  {
+    "pulaar": "yeeso",
+    "english": "in front of"
+  },
+  {
+    "pulaar": "baawo",
+    "english": "behind"
+  },
+  {
+    "pulaar": "nder",
+    "english": "inside"
+  },
+  {
+    "pulaar": "hakkunde",
+    "english": "between"
+  },
+  {
+    "pulaar": "yaasi",
+    "english": "outside"
+  },
+  {
+    "pulaar": "ko hondun nii?",
+    "english": "what is this?"
+  },
+  {
+    "pulaar": "ko karambol nii",
+    "english": "this is a pen"
+  },
+  {
+    "pulaar": "ko honto saajo woni",
+    "english": "where is saajo?"
+  },
+  {
+    "pulaar": "Saajo no maamum",
+    "english": "saajo is in maamun"
+  },
+  {
+    "pulaar": "saajo no ka maakiti",
+    "english": "saajo is at the market"
+  },
+  {
+    "pulaar": "ko honno dun innetee e pular?",
+    "english": "what is this called in"
+  },
+  {
+    "pulaar": "Ko honno “livre” innetee e pular?",
+    "english": "How do you say “Livre” in pular?"
+  },
+  {
+    "pulaar": "Ko hondun woni “fijugol”",
+    "english": "what does “fijugol” mean?"
+  },
+  {
+    "pulaar": "Haaliree doy",
+    "english": "speak slowly"
+  },
+  {
+    "pulaar": "fillitee",
+    "english": "please repeat."
+  },
+  {
+    "pulaar": "Baaba",
+    "english": "father"
+  },
+  {
+    "pulaar": "Neene",
+    "english": "mother"
+  },
+  {
+    "pulaar": "Ben",
+    "english": "father respectful"
+  },
+  {
+    "pulaar": "Yuuma",
+    "english": "mother respectful"
+  },
+  {
+    "pulaar": "Ben mawdo",
+    "english": "father’s older brother"
+  },
+  {
+    "pulaar": "Minan",
+    "english": "younger brother or sister"
+  },
+  {
+    "pulaar": "Koto",
+    "english": "older brother"
+  },
+  {
+    "pulaar": "Jaaja",
+    "english": "older sister"
+  },
+  {
+    "pulaar": "Kaawu",
+    "english": "mother’s brother"
+  },
+  {
+    "pulaar": "Bappa",
+    "english": "father’s younger brother"
+  },
+  {
+    "pulaar": "Yaaye",
+    "english": "father’s sister"
+  },
+  {
+    "pulaar": "Soro",
+    "english": "grandfather"
+  },
+  {
+    "pulaar": "Pati",
+    "english": "grandmother"
+  },
+  {
+    "pulaar": "Beyngu",
+    "english": "wife"
+  },
+  {
+    "pulaar": "Moodi",
+    "english": "husband"
+  },
+  {
+    "pulaar": "Keynan",
+    "english": "older sister’s husband or wife’s younger brother"
+  },
+  {
+    "pulaar": "Esiraawo",
+    "english": "in-law"
+  },
+  {
+    "pulaar": "Neenegooto",
+    "english": "full sibling (same mother, same father)"
+  },
+  {
+    "pulaar": "Baabagooto",
+    "english": "half sibling (same father different"
+  },
+  {
+    "pulaar": "Siinaa",
+    "english": "co-wife"
+  },
+  {
+    "pulaar": "Taanira",
+    "english": "grandchild"
+  },
+  {
+    "pulaar": "Mawbe",
+    "english": "parents, older relative, old ones"
+  },
+  {
+    "pulaar": "Biddo (bibbe)",
+    "english": "child (children)"
+  },
+  {
+    "pulaar": "Goreejo",
+    "english": "age-mate"
+  },
+  {
+    "pulaar": "Beynguure nden",
+    "english": "the unclear family (wives and children)"
+  },
+  {
+    "pulaar": "Musidal ngal",
+    "english": "extended family"
+  },
+  {
+    "pulaar": "Musiddo, siddo",
+    "english": "relative"
+  },
+  {
+    "pulaar": "Njaatigi",
+    "english": "friend, lover"
+  },
+  {
+    "pulaar": "Gido",
+    "english": "friend"
+  },
+  {
+    "pulaar": "Ko hommbo nii?",
+    "english": "who is that?"
+  },
+  {
+    "pulaar": "Ko saliu nii",
+    "english": "that is Saliu"
+  },
+  {
+    "pulaar": "Ko koto an nii",
+    "english": "that my older brother"
+  },
+  {
+    "pulaar": "Ko minniraabe njelo marudaa?",
+    "english": "that’s 3 younger sibling I"
+  },
+  {
+    "pulaar": "Ko duubi jeli marudaa?",
+    "english": "How old are you?"
+  },
+  {
+    "pulaar": "Ko duubi nogay e jeetati mi mari",
+    "english": "I am twenty-eight"
+  },
+  {
+    "pulaar": "Ko duubi jelu o mari",
+    "english": "how old is he"
+  },
+  {
+    "pulaar": "Ko duubi sappo e go’oo mari.",
+    "english": "that’s eleven year old, he has."
+  },
+  {
+    "pulaar": "Adama hawa ko jaaja an",
+    "english": "Adam hawa is my older sister"
+  },
+  {
+    "pulaar": "Jariatu ko beyngu yanuusa",
+    "english": "Jariatu is yunuusa’s wife"
+  },
+  {
+    "pulaar": "Amerikenbe taco",
+    "english": "three Americans"
+  },
+  {
+    "pulaar": "Duubi Tati",
+    "english": "three years"
+  },
+  {
+    "pulaar": "Ameriken njelo",
+    "english": "how many Americans"
+  },
+  {
+    "pulaar": "Duubi jelu",
+    "english": "how many years"
+  },
+  {
+    "pulaar": "Go’o, gooto",
+    "english": "one"
+  },
+  {
+    "pulaar": "Didi, dido",
+    "english": "two"
+  },
+  {
+    "pulaar": "Tati, tato",
+    "english": "three"
+  },
+  {
+    "pulaar": "Nay, nayo",
+    "english": "four"
+  },
+  {
+    "pulaar": "Jowi, jowo",
+    "english": "five"
+  },
+  {
+    "pulaar": "Jeego, jeego",
+    "english": "six"
+  },
+  {
+    "pulaar": "Jeedidi, jeedido",
+    "english": "seven"
+  },
+  {
+    "pulaar": "Jeetati, jeetato",
+    "english": "eight"
+  },
+  {
+    "pulaar": "Jeenay, jeenayo",
+    "english": "nine"
+  },
+  {
+    "pulaar": "Sappo, Sappo",
+    "english": "ten"
+  },
+  {
+    "pulaar": "Sappo e go’o, sappo e go’o",
+    "english": "eleven"
+  },
+  {
+    "pulaar": "Sappo e didi, sappo e dido",
+    "english": "twelve"
+  },
+  {
+    "pulaar": "Sappo e jeenay, sappo e jeenayo",
+    "english": "nineteen"
+  },
+  {
+    "pulaar": "Nogay, nogayo",
+    "english": "twenty"
+  },
+  {
+    "pulaar": "Nogay e go’o, notate e go’o",
+    "english": "twenty-one"
+  },
+  {
+    "pulaar": "Cappande Tati, cappande tato",
+    "english": "thirty"
+  },
+  {
+    "pulaar": "Cappande tati e go’o, cappande taco e go’o",
+    "english": "thirty-one"
+  },
+  {
+    "pulaar": "Cappande nay",
+    "english": "forty"
+  },
+  {
+    "pulaar": "Cappande jowl",
+    "english": "fifty"
+  },
+  {
+    "pulaar": "Cappande jeego",
+    "english": "sixty"
+  },
+  {
+    "pulaar": "Cappande jeedidi",
+    "english": "seventy"
+  },
+  {
+    "pulaar": "Cappande jeetati",
+    "english": "eighty"
+  },
+  {
+    "pulaar": "Cappande jeenay",
+    "english": "ninety"
+  },
+  {
+    "pulaar": "Ko baaba an nii",
+    "english": "that is my father"
+  },
+  {
+    "pulaar": "Ko baaba Amadou nii",
+    "english": "That is Amadou’s father"
+  },
+  {
+    "pulaar": "Mi waawaa pular",
+    "english": "I don’t speak pular"
+  },
+  {
+    "pulaar": "Woo, o Sanaa pular.",
+    "english": "(He says) he doesn’t speak pular."
+  },
+  {
+    "pulaar": "Woo himo mari bibbe nogayo",
+    "english": "They say he has twenty children."
+  },
+  {
+    "pulaar": "Enee, Porto! A majju",
+    "english": "Hey, white boy! Are you lost"
+  },
+  {
+    "pulaar": "ka fulawa",
+    "english": "In the countryside"
+  },
+  {
+    "pulaar": "jom hunndukko majjataa",
+    "english": "if you have a mouth you can’t get lost"
+  },
+  {
+    "pulaar": "selugol",
+    "english": "to turn"
+  },
+  {
+    "pulaar": "hewtugol",
+    "english": "to arrive"
+  },
+  {
+    "pulaar": "dowtugol",
+    "english": "to guide"
+  },
+  {
+    "pulaar": "jokkugol",
+    "english": "to follow"
+  },
+  {
+    "pulaar": "rewugol",
+    "english": "to pass (by)"
+  },
+  {
+    "pulaar": "tayitugol",
+    "english": "to cut across"
+  },
+  {
+    "pulaar": "woddugol",
+    "english": "to be far"
+  },
+  {
+    "pulaar": "badagol",
+    "english": "to be near"
+  },
+  {
+    "pulaar": "yiltagol",
+    "english": "to turn back"
+  },
+  {
+    "pulaar": "lummbugol",
+    "english": "to cross (river, village)"
+  },
+  {
+    "pulaar": "doy",
+    "english": "slowly, carefully"
+  },
+  {
+    "pulaar": "tinna",
+    "english": "quickly"
+  },
+  {
+    "pulaar": "karahan",
+    "english": "with difficulty"
+  },
+  {
+    "pulaar": "kisan",
+    "english": "immediately"
+  },
+  {
+    "pulaar": "nano",
+    "english": "left"
+  },
+  {
+    "pulaar": "naamo",
+    "english": "right"
+  },
+  {
+    "pulaar": "telen",
+    "english": "towards"
+  },
+  {
+    "pulaar": "Ko tensira mi faalaa yahude",
+    "english": "It is to Tensira that I want to go"
+  },
+  {
+    "pulaar": "Ko honno mi yahirta tensira",
+    "english": "How do I get to Tensira?"
+  },
+  {
+    "pulaar": "Mido dabbitude laawol tensira",
+    "english": "I’m looking for the road to tensira"
+  },
+  {
+    "pulaar": "No woddi?",
+    "english": "It is far?"
+  },
+  {
+    "pulaar": "No woddi",
+    "english": "it is far"
+  },
+  {
+    "pulaar": "woddaa",
+    "english": "It is not far."
+  },
+  {
+    "pulaar": "Ko haa honto",
+    "english": "To what point?"
+  },
+  {
+    "pulaar": "jokku ngol laawol doo",
+    "english": "Follow this road here"
+  },
+  {
+    "pulaar": "Selir ka naamo",
+    "english": "Turn right"
+  },
+  {
+    "pulaar": "Selir ka nano",
+    "english": "turn left"
+  },
+  {
+    "pulaar": "Yahu hara a selaali",
+    "english": "go without turning"
+  },
+  {
+    "pulaar": "Ko honto nii?",
+    "english": "Where am I?"
+  },
+  {
+    "pulaar": "Mi majjii",
+    "english": "I’ve gotten lost"
+  },
+  {
+    "pulaar": "Yo alla welnu laawol ngol",
+    "english": "May god make your path easy"
+  },
+  {
+    "pulaar": "buruure nden",
+    "english": "the bush"
+  },
+  {
+    "pulaar": "fulawa on",
+    "english": "the countryside"
+  },
+  {
+    "pulaar": "traawo on",
+    "english": "The public road (from travaux publiques)"
+  },
+  {
+    "pulaar": "laawol ngol",
+    "english": "the road, the path"
+  },
+  {
+    "pulaar": "datal ngal",
+    "english": "the path"
+  },
+  {
+    "pulaar": "hodo ngon",
+    "english": "the village"
+  },
+  {
+    "pulaar": "fello ngon",
+    "english": "the hill, the mountain"
+  },
+  {
+    "pulaar": "caangol ngol",
+    "english": "the river"
+  },
+  {
+    "pulaar": "jurnde nden",
+    "english": "the waterfall"
+  },
+  {
+    "pulaar": "maayo ngon",
+    "english": "the large river, the ocean"
+  },
+  {
+    "pulaar": "jaami’u on juulirde nden (juulirde den)",
+    "english": "the mosque"
+  },
+  {
+    "pulaar": "farmassi on",
+    "english": "the pharmacy"
+  },
+  {
+    "pulaar": "garwatiir on",
+    "english": "the taxi park"
+  },
+  {
+    "pulaar": "restoran on",
+    "english": "the restaurant"
+  },
+  {
+    "pulaar": "buubugol",
+    "english": "to be cold or wet (said of the weather)"
+  },
+  {
+    "pulaar": "jaangegol",
+    "english": "to be cold (said of a person)"
+  },
+  {
+    "pulaar": "wulugol",
+    "english": "to be hot (said of the weather)"
+  },
+  {
+    "pulaar": "ngulegol",
+    "english": "to be hot (said of a person)"
+  },
+  {
+    "pulaar": "lakkegol",
+    "english": "to be sweaty"
+  },
+  {
+    "pulaar": "nibbugol",
+    "english": "to be dark (or late in the day)"
+  },
+  {
+    "pulaar": "naange ngen",
+    "english": "the sun"
+  },
+  {
+    "pulaar": "hendu ndun",
+    "english": "the wind"
+  },
+  {
+    "pulaar": "ndiyan dan",
+    "english": "the rain or the water"
+  },
+  {
+    "pulaar": "jaangol ngol",
+    "english": "the cold"
+  },
+  {
+    "pulaar": "nguleendi ndin",
+    "english": "the heat"
+  },
+  {
+    "pulaar": "mido jaangaa",
+    "english": "I’m cold."
+  },
+  {
+    "pulaar": "Hennde no buubi",
+    "english": "it’s cold today"
+  },
+  {
+    "pulaar": "Mido ngulaa",
+    "english": "I’m hot."
+  },
+  {
+    "pulaar": "Henndu no wadi",
+    "english": "the wind is blowing"
+  },
+  {
+    "pulaar": "Naange ngen no wuli",
+    "english": "the sun is hot"
+  },
+  {
+    "pulaar": "No nibbiti",
+    "english": "it’s dark."
+  },
+  {
+    "pulaar": "Ndiyan aray hannde",
+    "english": "It will rain today. (Lit. water will come today)"
+  },
+  {
+    "pulaar": "Jaangol no ton",
+    "english": "it’s cold there"
+  },
+  {
+    "pulaar": "passi",
+    "english": "fare"
+  },
+  {
+    "pulaar": "aparanti",
+    "english": "driver’s helper"
+  },
+  {
+    "pulaar": "bagaasi",
+    "english": "baggage"
+  },
+  {
+    "pulaar": "pilaasi",
+    "english": "seat"
+  },
+  {
+    "pulaar": "kilyan",
+    "english": "passenger"
+  },
+  {
+    "pulaar": "wayaasugol",
+    "english": "to travel"
+  },
+  {
+    "pulaar": "yaawugol",
+    "english": "to be quick"
+  },
+  {
+    "pulaar": "neebugol",
+    "english": "to take a long time"
+  },
+  {
+    "pulaar": "keldugol",
+    "english": "to be solid or in good condition"
+  },
+  {
+    "pulaar": "paanugol",
+    "english": "to break down (car, etc.)"
+  },
+  {
+    "pulaar": "munnagol",
+    "english": "to be patient"
+  },
+  {
+    "pulaar": "tampugol",
+    "english": "to suffer"
+  },
+  {
+    "pulaar": "Ko Labe mi yahata",
+    "english": "I’m going to Labe"
+  },
+  {
+    "pulaar": "Mi yobay pilaasi didi",
+    "english": "I’ll pay for two seats"
+  },
+  {
+    "pulaar": "Oto on heewi?",
+    "english": "Is the car full?"
+  },
+  {
+    "pulaar": "On siwaa yahude",
+    "english": "Will it be a while before you leave?"
+  },
+  {
+    "pulaar": "Ko kilyanbe njelo manki",
+    "english": "How many people passengers do you need?"
+  },
+  {
+    "pulaar": "En yahay kisan?",
+    "english": "Will we leave immediately?"
+  },
+  {
+    "pulaar": "Mi hoolaaki dun",
+    "english": "Yeah, right"
+  },
+  {
+    "pulaar": "Paasi on ko jelu?",
+    "english": "How much is the fare?"
+  },
+  {
+    "pulaar": "Kun sakun yobetaake",
+    "english": "I shouldn’t have to pay for that little bag"
+  },
+  {
+    "pulaar": "Ko ka hakkunde mi wonata",
+    "english": "That’s in the middle i will be"
+  },
+  {
+    "pulaar": "Mahen",
+    "english": "let’s go"
+  },
+  {
+    "pulaar": "Duytu seeda!",
+    "english": "Come down a little!"
+  },
+  {
+    "pulaar": "almeeti on",
+    "english": "the box of matches"
+  },
+  {
+    "pulaar": "buusii on",
+    "english": "the candle"
+  },
+  {
+    "pulaar": "wureere nden",
+    "english": "the cast iron cooking pot"
+  },
+  {
+    "pulaar": "loonde nden",
+    "english": "the water jar"
+  },
+  {
+    "pulaar": "fayannde nden",
+    "english": "the earthenware cooking pot"
+  },
+  {
+    "pulaar": "bagi on",
+    "english": "the cloth"
+  },
+  {
+    "pulaar": "leppi ndin",
+    "english": "hand-woven cotton cloth"
+  },
+  {
+    "pulaar": "mbasan on",
+    "english": "imported white cotton cloth (may be locally dyed)"
+  },
+  {
+    "pulaar": "waksi on",
+    "english": "imported printed cloth"
+  },
+  {
+    "pulaar": "sudaare nden",
+    "english": "the blanket"
+  },
+  {
+    "pulaar": "soodugol",
+    "english": "to buy"
+  },
+  {
+    "pulaar": "yeeyugol",
+    "english": "to sell"
+  },
+  {
+    "pulaar": "ndaarugol",
+    "english": "to look"
+  },
+  {
+    "pulaar": "sattugol",
+    "english": "to be difficult, expensive"
+  },
+  {
+    "pulaar": "duytugol",
+    "english": "to come down, to reduce"
+  },
+  {
+    "pulaar": "fandugol",
+    "english": "to be small"
+  },
+  {
+    "pulaar": "subagol",
+    "english": "to choose"
+  },
+  {
+    "pulaar": "marugol",
+    "english": "to have, to save"
+  },
+  {
+    "pulaar": "jogagol",
+    "english": "to have, to hold"
+  },
+  {
+    "pulaar": "nawlagol",
+    "english": "to lend"
+  },
+  {
+    "pulaar": "yobugol",
+    "english": "to pay"
+  },
+  {
+    "pulaar": "sensugol",
+    "english": "to change"
+  },
+  {
+    "pulaar": "lanndagol",
+    "english": "to ask"
+  },
+  {
+    "pulaar": "haldugol",
+    "english": "to negotiate"
+  },
+  {
+    "pulaar": "termugol",
+    "english": "to bargain"
+  },
+  {
+    "pulaar": "yeeyoowo on",
+    "english": "the seller"
+  },
+  {
+    "pulaar": "soodoowo on",
+    "english": "the buyer"
+  },
+  {
+    "pulaar": "maakiti on",
+    "english": "the market"
+  },
+  {
+    "pulaar": "luumo ngon",
+    "english": "the weekly market"
+  },
+  {
+    "pulaar": "bitiki on",
+    "english": "the store"
+  },
+  {
+    "pulaar": "coggu ngun",
+    "english": "the price"
+  },
+  {
+    "pulaar": "mbuudi ndin, kaalisi on",
+    "english": "the money"
+  },
+  {
+    "pulaar": "cewdi ndin",
+    "english": "the change"
+  },
+  {
+    "pulaar": "ko kosan faaladaa, kaa ko biraadan?",
+    "english": "Do you want sour milk or do you want fresh milk"
+  },
+  {
+    "pulaar": "Mido faalaa nebban tiga maa nebban tugi",
+    "english": "I want either peanut oil or palm oil."
+  },
+  {
+    "pulaar": "teemedere",
+    "english": "one hundred"
+  },
+  {
+    "pulaar": "teemedde jowi",
+    "english": "five hundred"
+  },
+  {
+    "pulaar": "wuluure",
+    "english": "one thousand"
+  },
+  {
+    "pulaar": "guluuji jowi",
+    "english": "five thousand"
+  },
+  {
+    "pulaar": "guluuji did e temedde jeedidi e cappande jowi",
+    "english": "thousand seven hundred and fifty"
+  },
+  {
+    "pulaar": "horde nden",
+    "english": "the calabash"
+  },
+  {
+    "pulaar": "korun kun",
+    "english": "the samll calabash"
+  },
+  {
+    "pulaar": "pooti on",
+    "english": "the can, the jar"
+  },
+  {
+    "pulaar": "kilo on",
+    "english": "the kilogram"
+  },
+  {
+    "pulaar": "meeter on",
+    "english": "the meter"
+  },
+  {
+    "pulaar": "liitar on",
+    "english": "the liter"
+  },
+  {
+    "pulaar": "sariyaare nden",
+    "english": "the measure"
+  },
+  {
+    "pulaar": "habbere nden",
+    "english": "the bundle"
+  },
+  {
+    "pulaar": "sadaare nden",
+    "english": "the pile"
+  },
+  {
+    "pulaar": "baasal warataa kono no tampina",
+    "english": "Poverty doesn’t kill, but it is rather unpleasant."
+  },
+  {
+    "pulaar": "Tamaati on ko jelu?",
+    "english": "How much are the tomatoes"
+  },
+  {
+    "pulaar": "Mido faalaa soodude tamaati",
+    "english": "I want to buy tomatoes"
+  },
+  {
+    "pulaar": "Ko basalle mi faalaa",
+    "english": "It’s onion that I want"
+  },
+  {
+    "pulaar": "No satti",
+    "english": "That’s expensive"
+  },
+  {
+    "pulaar": "Fii soodugol ko jelu",
+    "english": "How much is it really"
+  },
+  {
+    "pulaar": "Duytanan seeda",
+    "english": "Come down a bit for me"
+  },
+  {
+    "pulaar": "on duytataa seeda?",
+    "english": "wont you come down a little?"
+  },
+  {
+    "pulaar": "Beydu seeda",
+    "english": "Give me a little more"
+  },
+  {
+    "pulaar": "No moyyi",
+    "english": "That’s good"
+  },
+  {
+    "pulaar": "Mido yidi dun",
+    "english": "I like that"
+  },
+  {
+    "pulaar": "A maraa cewdi wuluure?",
+    "english": "Don’t you have change for a thousand?"
+  },
+  {
+    "pulaar": "Maaro no woodi",
+    "english": "Is there rice?"
+  },
+  {
+    "pulaar": "Maaro alaa",
+    "english": "there is no rice"
+  },
+  {
+    "pulaar": "Maaro no woodi?",
+    "english": "There is rice."
+  },
+  {
+    "pulaar": "Hidon jogii saabunde?",
+    "english": "Do you (polite) have soap?"
+  },
+  {
+    "pulaar": "Mi jogaaki saabunde",
+    "english": "I don’t have soap"
+  },
+  {
+    "pulaar": "Mi maraa pompiteeri",
+    "english": "I don’t have potatoes"
+  },
+  {
+    "pulaar": "Mido mari pompiteeri",
+    "english": "I do have potatoes"
+  },
+  {
+    "pulaar": "Ko honto mi heboto farin",
+    "english": "Where could I get flour?"
+  },
+  {
+    "pulaar": "nawnaare",
+    "english": "sickness"
+  },
+  {
+    "pulaar": "nawndoowo",
+    "english": "healer, doctor"
+  },
+  {
+    "pulaar": "cellal",
+    "english": "health"
+  },
+  {
+    "pulaar": "labutaani",
+    "english": "hospital"
+  },
+  {
+    "pulaar": "lekki",
+    "english": "medicine"
+  },
+  {
+    "pulaar": "pikiir",
+    "english": "shot"
+  },
+  {
+    "pulaar": "palu, jonte",
+    "english": "malaria"
+  },
+  {
+    "pulaar": "jalbi",
+    "english": "worms"
+  },
+  {
+    "pulaar": "naw giggol",
+    "english": "sexually transmitted illness"
+  },
+  {
+    "pulaar": "feti",
+    "english": "measles, Masern"
+  },
+  {
+    "pulaar": "puye",
+    "english": "bumps"
+  },
+  {
+    "pulaar": "dogu reedu",
+    "english": "diarrhea"
+  },
+  {
+    "pulaar": "muusu ndun",
+    "english": "the pain"
+  },
+  {
+    "pulaar": "durma",
+    "english": "a cold"
+  },
+  {
+    "pulaar": "barme",
+    "english": "wound"
+  },
+  {
+    "pulaar": "bullal",
+    "english": "abscess"
+  },
+  {
+    "pulaar": "No butti seeda?",
+    "english": "are you feeling better?"
+  },
+  {
+    "pulaar": "nanngugol",
+    "english": "to catch"
+  },
+  {
+    "pulaar": "wondugol",
+    "english": "to be with"
+  },
+  {
+    "pulaar": "muusugol",
+    "english": "to hurt"
+  },
+  {
+    "pulaar": "nawnugol",
+    "english": "to be sick"
+  },
+  {
+    "pulaar": "nawndugol",
+    "english": "to heal"
+  },
+  {
+    "pulaar": "dogugol",
+    "english": "to run"
+  },
+  {
+    "pulaar": "sikkugol",
+    "english": "to think, believe"
+  },
+  {
+    "pulaar": "tayugol",
+    "english": "to cut"
+  },
+  {
+    "pulaar": "barmugol",
+    "english": "to wound"
+  },
+  {
+    "pulaar": "buttugol",
+    "english": "to be better, to cool down"
+  },
+  {
+    "pulaar": "helugol",
+    "english": "to break"
+  },
+  {
+    "pulaar": "naabegol",
+    "english": "to have pinkeye"
+  },
+  {
+    "pulaar": "durmegol",
+    "english": "to have a cold"
+  },
+  {
+    "pulaar": "soofugol",
+    "english": "to urinate"
+  },
+  {
+    "pulaar": "bu’ugol",
+    "english": "to defecate"
+  },
+  {
+    "pulaar": "tuutugol",
+    "english": "to vomit"
+  },
+  {
+    "pulaar": "maayugol",
+    "english": "to die"
+  },
+  {
+    "pulaar": "dojjugol",
+    "english": "to cough"
+  },
+  {
+    "pulaar": "natugol",
+    "english": "to bite (mosquito, snake)"
+  },
+  {
+    "pulaar": "wonno ko jonte",
+    "english": "Maybe it’s malaria"
+  },
+  {
+    "pulaar": "No gasa ko dun",
+    "english": "Maybe that’s it"
+  },
+  {
+    "pulaar": "hoore nden",
+    "english": "the head"
+  },
+  {
+    "pulaar": "reedu ndun",
+    "english": "the stomach"
+  },
+  {
+    "pulaar": "daande nden",
+    "english": "the throat, the neck"
+  },
+  {
+    "pulaar": "yeeso ngon",
+    "english": "the face"
+  },
+  {
+    "pulaar": "sukundu ndun",
+    "english": "the hairs"
+  },
+  {
+    "pulaar": "bernde nden",
+    "english": "the heart"
+  },
+  {
+    "pulaar": "heyre nden",
+    "english": "the liver"
+  },
+  {
+    "pulaar": "yiiyan den",
+    "english": "the blood"
+  },
+  {
+    "pulaar": "gurii ngii",
+    "english": "the skin"
+  },
+  {
+    "pulaar": "banndu ndun",
+    "english": "the body"
+  },
+  {
+    "pulaar": "baawo ngon",
+    "english": "the back"
+  },
+  {
+    "pulaar": "kinal ngal",
+    "english": "the nose"
+  },
+  {
+    "pulaar": "denngal ngal",
+    "english": "the tongue"
+  },
+  {
+    "pulaar": "yiitere nden",
+    "english": "the eye"
+  },
+  {
+    "pulaar": "gite den",
+    "english": "the eyes"
+  },
+  {
+    "pulaar": "junngo ngon",
+    "english": "the arm, the hand"
+  },
+  {
+    "pulaar": "juude den",
+    "english": "the arms, the hands"
+  },
+  {
+    "pulaar": "honndu ndun",
+    "english": "the finger"
+  },
+  {
+    "pulaar": "kolli din",
+    "english": "the fingers"
+  },
+  {
+    "pulaar": "walbo ngon",
+    "english": "the shoulder"
+  },
+  {
+    "pulaar": "balbe den",
+    "english": "the shoulders"
+  },
+  {
+    "pulaar": "koyngal ngal",
+    "english": "the leg"
+  },
+  {
+    "pulaar": "koyden den",
+    "english": "the legs"
+  },
+  {
+    "pulaar": "forwre nden",
+    "english": "the buttock (pobacke)"
+  },
+  {
+    "pulaar": "bobi din",
+    "english": "the buttocks"
+  },
+  {
+    "pulaar": "niire nden",
+    "english": "the tooth"
+  },
+  {
+    "pulaar": "niiye den",
+    "english": "the teeth"
+  },
+  {
+    "pulaar": "howru ndun",
+    "english": "the knee"
+  },
+  {
+    "pulaar": "koppi din",
+    "english": "the knees"
+  },
+  {
+    "pulaar": "nowru ndun",
+    "english": "the ear"
+  },
+  {
+    "pulaar": "noppi din",
+    "english": "the ears"
+  },
+  {
+    "pulaar": "yi’al ngal",
+    "english": "the bone"
+  },
+  {
+    "pulaar": "yi’e den",
+    "english": "the bones"
+  },
+  {
+    "pulaar": "newre nden",
+    "english": "the palm of the hand"
+  },
+  {
+    "pulaar": "newe den",
+    "english": "the palms of the hand"
+  },
+  {
+    "pulaar": "teppere nden",
+    "english": "sole of the foot"
+  },
+  {
+    "pulaar": "teppe den",
+    "english": "soles of the feet"
+  },
+  {
+    "pulaar": "tonndu ndun",
+    "english": "the lip"
+  },
+  {
+    "pulaar": "toni din",
+    "english": "the lips"
+  },
+  {
+    "pulaar": "ko honndo o wa’i?",
+    "english": "what is he/she like?"
+  },
+  {
+    "pulaar": "himo njandi?",
+    "english": "Is he"
+  },
+  {
+    "pulaar": "himo juuti",
+    "english": "He is tall."
+  },
+  {
+    "pulaar": "o juutaa",
+    "english": "He is not tall"
+  },
+  {
+    "pulaar": "himo mari hakkil",
+    "english": "He is smart"
+  },
+  {
+    "pulaar": "O maraa kakkil few",
+    "english": "He has no brain at all."
+  },
+  {
+    "pulaar": "Himo njandi hoore",
+    "english": "He has a big head."
+  },
+  {
+    "pulaar": "Ko hundun muusay",
+    "english": "what hurts you?"
+  },
+  {
+    "pulaar": "ko honto muusay maa?",
+    "english": "where does it hurt?"
+  },
+  {
+    "pulaar": "ko hoore nden muusata ian",
+    "english": "It’s my head"
+  },
+  {
+    "pulaar": "hoore an nden no muusude ian",
+    "english": "my head is hurting me"
+  },
+  {
+    "pulaar": "ko hondun nanngu maa",
+    "english": "what do you have? what"
+  },
+  {
+    "pulaar": "ko jonte nanngu lan",
+    "english": "That’s malaria I’ve got"
+  },
+  {
+    "pulaar": "Mido wondi e jalbi",
+    "english": "I have worms"
+  },
+  {
+    "pulaar": "Goddun natii I an",
+    "english": "Something bit me"
+  },
+  {
+    "pulaar": "Banndu an ndun no wuli",
+    "english": "I have a fever. / My body is hot"
+  },
+  {
+    "pulaar": "No butti seeda?",
+    "english": "Are you better?"
+  },
+  {
+    "pulaar": "rawnugol",
+    "english": "to be light-skinned"
+  },
+  {
+    "pulaar": "Yo alla beydu aafiya",
+    "english": "May God bring you peace."
+  },
+  {
+    "pulaar": "bawlugol",
+    "english": "to be dark-skinned"
+  },
+  {
+    "pulaar": "sewugol",
+    "english": "to be thin"
+  },
+  {
+    "pulaar": "semmbugol",
+    "english": "to be fat"
+  },
+  {
+    "pulaar": "juutugol",
+    "english": "to be tall"
+  },
+  {
+    "pulaar": "rabbidugol",
+    "english": "to be short"
+  },
+  {
+    "pulaar": "hawrugol",
+    "english": "to be average"
+  },
+  {
+    "pulaar": "labegol",
+    "english": "to be beautiful"
+  },
+  {
+    "pulaar": "kaanugol",
+    "english": "to be ugly"
+  },
+  {
+    "pulaar": "nawyugol",
+    "english": "to be cold"
+  },
+  {
+    "pulaar": "weltagol",
+    "english": "to be happy"
+  },
+  {
+    "pulaar": "komidugol",
+    "english": "to be stupid"
+  },
+  {
+    "pulaar": "yoyugol",
+    "english": "to be clever"
+  },
+  {
+    "pulaar": "moyyugol",
+    "english": "to be good"
+  },
+  {
+    "pulaar": "bonugol",
+    "english": "to be bad"
+  },
+  {
+    "pulaar": "dolnugol",
+    "english": "to be strong"
+  },
+  {
+    "pulaar": "lo’ugol",
+    "english": "to be weak"
+  },
+  {
+    "pulaar": "arsikegol",
+    "english": "to be lucky"
+  },
+  {
+    "pulaar": "njandugol",
+    "english": "to be big, thick"
+  },
+  {
+    "pulaar": "fandugol",
+    "english": "to be small"
+  },
+  {
+    "pulaar": "jibingol",
+    "english": "gave birth"
+  },
+  {
+    "pulaar": "gila",
+    "english": "from the time"
+  },
+  {
+    "pulaar": "femmbugol",
+    "english": "to shave"
+  },
+  {
+    "pulaar": "sanfa",
+    "english": "unnamed baby"
+  },
+  {
+    "pulaar": "toolodal",
+    "english": "community"
+  },
+  {
+    "pulaar": "hollitugol",
+    "english": "to inform"
+  },
+  {
+    "pulaar": "yontugol",
+    "english": "to complete a week"
+  },
+  {
+    "pulaar": "kawtal",
+    "english": "neighborhood"
+  },
+  {
+    "pulaar": "moobondirgol",
+    "english": "to gather together"
+  },
+  {
+    "pulaar": "hebulagol",
+    "english": "to get ready"
+  },
+  {
+    "pulaar": "cobbal",
+    "english": "treat (balls) made of rice and honey"
+  },
+  {
+    "pulaar": "fewndagol",
+    "english": "to be present"
+  },
+  {
+    "pulaar": "futuube ben",
+    "english": "relatives on one side"
+  },
+  {
+    "pulaar": "fenninoowo",
+    "english": "announcer (pers.)"
+  },
+  {
+    "pulaar": "hunagol",
+    "english": "to explain one’s reason for coming"
+  },
+  {
+    "pulaar": "innitirgol",
+    "english": "to name after"
+  },
+  {
+    "pulaar": "senndugol",
+    "english": "to divide up"
+  },
+  {
+    "pulaar": "goro",
+    "english": "kola nuts"
+  },
+  {
+    "pulaar": "teddingol",
+    "english": "to respect, honor"
+  },
+  {
+    "pulaar": "yamugol",
+    "english": "to ask for a woman’s hand"
+  },
+  {
+    "pulaar": "toragol",
+    "english": "to beg"
+  },
+  {
+    "pulaar": "si neebi seeda",
+    "english": "after a while"
+  },
+  {
+    "pulaar": "humpitagol",
+    "english": "to find out about"
+  },
+  {
+    "pulaar": "dewgal",
+    "english": "marriage"
+  },
+  {
+    "pulaar": "habbugol",
+    "english": "to tie"
+  },
+  {
+    "pulaar": "tiggugol",
+    "english": "to marry"
+  },
+  {
+    "pulaar": "haddugol",
+    "english": "to tie skirt"
+  },
+  {
+    "pulaar": "daneejo",
+    "english": "white (on class)"
+  },
+  {
+    "pulaar": "raneere",
+    "english": "white (nden class)"
+  },
+  {
+    "pulaar": "dadorgol",
+    "english": "belt"
+  },
+  {
+    "pulaar": "jommba",
+    "english": "bride"
+  },
+  {
+    "pulaar": "fawugol",
+    "english": "to put on top of"
+  },
+  {
+    "pulaar": "dammbugal",
+    "english": "entrance"
+  },
+  {
+    "pulaar": "bammbugol",
+    "english": "to carry on back"
+  },
+  {
+    "pulaar": "dowtugol",
+    "english": "to guide"
+  },
+  {
+    "pulaar": "fellugol loowannde",
+    "english": "to fire off a shot"
+  },
+  {
+    "pulaar": "jiwo",
+    "english": "virgin"
+  },
+  {
+    "pulaar": "hersingol",
+    "english": "embarass, shame"
+  },
+  {
+    "pulaar": "kanne",
+    "english": "gold"
+  },
+  {
+    "pulaar": "haaju",
+    "english": "affair"
+  },
+  {
+    "pulaar": "furee",
+    "english": "corpse"
+  },
+  {
+    "pulaar": "jasugol",
+    "english": "to dig"
+  },
+  {
+    "pulaar": "qaburu",
+    "english": "grave"
+  },
+  {
+    "pulaar": "berde",
+    "english": "cemetery"
+  },
+  {
+    "pulaar": "juulugol",
+    "english": "to pray"
+  },
+  {
+    "pulaar": "surrugol",
+    "english": "to bury"
+  },
+  {
+    "pulaar": "Cadi didi nagodotaako",
+    "english": "You can’t catch two rabbits at once"
+  },
+  {
+    "pulaar": "Yo alla wurnu boobo on barkina",
+    "english": "May the baby live long and be blessed"
+  },
+  {
+    "pulaar": "Yo alla wadumo mawdo",
+    "english": "May(s) he grow to be old."
+  },
+  {
+    "pulaar": "Yo alla wadumo nafoowo",
+    "english": "May(s) he be useful."
+  },
+  {
+    "pulaar": "Yo alla fewnumo",
+    "english": "May(s) he be upright"
+  },
+  {
+    "pulaar": "kori a hettike e jam",
+    "english": "Did you deliver without difficulty?"
+  },
+  {
+    "pulaar": "kori a tampaali fota",
+    "english": "I hope you didn’t suffer much"
+  },
+  {
+    "pulaar": "kori boobo on no e jam?",
+    "english": "I hope the baby is well?"
+  },
+  {
+    "pulaar": "kori neene boobo on no e jam?",
+    "english": "I hope the mother is well?"
+  },
+  {
+    "pulaar": "Yo alla tawu ko jom balde torii jom balde",
+    "english": "May god make us witness for years to come"
+  },
+  {
+    "pulaar": "Yo alla joddinirbe jiidi e jawdi",
+    "english": "May god provide children and wealth"
+  },
+  {
+    "pulaar": "Men torike on munnagol",
+    "english": "We beg you to hold up"
+  },
+  {
+    "pulaar": "Kori on munnike",
+    "english": "I hope you are courageous?"
+  },
+  {
+    "pulaar": "No yurmi",
+    "english": "It’s sad!"
+  },
+  {
+    "pulaar": "Yo alla hinno mo yaafoo",
+    "english": "May god forgive her/him"
+  },
+  {
+    "pulaar": "Yo alla okku mo alijanna",
+    "english": "May(s) he be accepted into paradise"
+  },
+  {
+    "pulaar": "Yo on booyu mo sakkanaade",
+    "english": "May you live long to offer sacrifices for her/him"
+  },
+  {
+    "pulaar": "Yo alla danndu en wano mum",
+    "english": "May god protect us from such a thing"
+  },
+  {
+    "pulaar": "Kori on juuli e jam? Kori juulaama e jam?",
+    "english": "Did you pray in peace?"
+  },
+  {
+    "pulaar": "Alla tawnii en hikka, yo alla tawnu en ko arata",
+    "english": "God saw us through to this year, may he see us through to the next."
+  },
+  {
+    "pulaar": "Fenaande nappay kono duwataa",
+    "english": "A lie builds a roof that gives no shade."
+  },
+  {
+    "pulaar": "Bee goddo e men yaho",
+    "english": "One of us should go"
+  },
+  {
+    "pulaar": "Wobbe e  mabbe no kaani kas",
+    "english": "Some of them are extremely ugly"
+  },
+  {
+    "pulaar": "Mi hirsay wonnge e dii na’i",
+    "english": "I’ll slaughter one of those cows."
+  },
+  {
+    "pulaar": "Portoobe goo no kaani",
+    "english": "Some white people are ugly"
+  },
+  {
+    "pulaar": "Bareeji goo yakataa be’i",
+    "english": "Some dogs don’t eat goats"
+  },
+  {
+    "pulaar": "O yahi nokkun goo",
+    "english": "He went somewhere (else)"
+  },
+  {
+    "pulaar": "lekkoljo goo ari",
+    "english": "A different student came."
+  },
+  {
+    "pulaar": "Mi yahay nannde goo",
+    "english": "I’ll go another day"
+  },
+  {
+    "pulaar": "Huunde kala e saa’i mum",
+    "english": "Everything in its own time"
+  },
+  {
+    "pulaar": "Susan ko jannoowo",
+    "english": "Susan is a teacher"
+  },
+  {
+    "pulaar": "Findinaa piyaa, bonnuno si daanii",
+    "english": "If you’re woken up with a beating, you must have done something before sleeping"
+  },
+  {
+    "pulaar": "leetugol",
+    "english": "to be late"
+  },
+  {
+    "pulaar": "nallugol",
+    "english": "to be late in the day, to do something all day"
+  },
+  {
+    "pulaar": "nibbugol",
+    "english": "to be dark; to be late at night"
+  },
+  {
+    "pulaar": "hawjugol",
+    "english": "to be in a hurry"
+  },
+  {
+    "pulaar": "finugol",
+    "english": "to wake up"
+  },
+  {
+    "pulaar": "immagol",
+    "english": "to get up"
+  },
+  {
+    "pulaar": "salmingol",
+    "english": "to greet"
+  },
+  {
+    "pulaar": "fokkitugol",
+    "english": "to start off"
+  },
+  {
+    "pulaar": "hebulagol",
+    "english": "to get ready"
+  },
+  {
+    "pulaar": "yewtugol",
+    "english": "to talk to converse"
+  },
+  {
+    "pulaar": "hootugol",
+    "english": "to go home"
+  },
+  {
+    "pulaar": "waalagol",
+    "english": "to lie down"
+  },
+  {
+    "pulaar": "gosagol",
+    "english": "to brush teeth"
+  },
+  {
+    "pulaar": "jentagol",
+    "english": "to listen"
+  },
+  {
+    "pulaar": "lannugol",
+    "english": "to finish"
+  },
+  {
+    "pulaar": "fuddagol",
+    "english": "to start"
+  },
+  {
+    "pulaar": "hodugol",
+    "english": "to live (somewhere)"
+  },
+  {
+    "pulaar": "ko leer hommbo nii?",
+    "english": "What time (hour) is it?"
+  },
+  {
+    "pulaar": "ko saa’i hommbo nii?",
+    "english": "what time is it?"
+  },
+  {
+    "pulaar": "ko waqtu hommbo arataa?",
+    "english": "what prayer time will you come"
+  },
+  {
+    "pulaar": "ko e subaka mi arata",
+    "english": "it is at dawn that I will come"
+  },
+  {
+    "pulaar": "Mi artay e nder balde nayi",
+    "english": "I’ll come back within four days"
+  },
+  {
+    "pulaar": "a hebulike?",
+    "english": "are you ready?"
+  },
+  {
+    "pulaar": "Alat",
+    "english": "Sunday"
+  },
+  {
+    "pulaar": "Tenen",
+    "english": "Monday"
+  },
+  {
+    "pulaar": "Talaata",
+    "english": "Tuesday"
+  },
+  {
+    "pulaar": "Alarba",
+    "english": "Wednesday"
+  },
+  {
+    "pulaar": "Alkamisa",
+    "english": "Thursday"
+  },
+  {
+    "pulaar": "Juma",
+    "english": "Friday"
+  },
+  {
+    "pulaar": "Asewe",
+    "english": "Saturday"
+  },
+  {
+    "pulaar": "subaka",
+    "english": "sunrise (prayer time )"
+  },
+  {
+    "pulaar": "fanaa",
+    "english": "early afternoon (prayer time)"
+  },
+  {
+    "pulaar": "alansara",
+    "english": "late afternoon (prayer time)"
+  },
+  {
+    "pulaar": "futuroo",
+    "english": "sunset (prayer time)"
+  },
+  {
+    "pulaar": "geeye",
+    "english": "nighttime (prayer time)"
+  },
+  {
+    "pulaar": "waqtu on",
+    "english": "the prayer time"
+  },
+  {
+    "pulaar": "waqtuuji din",
+    "english": "the prayer times"
+  },
+  {
+    "pulaar": "saa’i on",
+    "english": "the time"
+  },
+  {
+    "pulaar": "saa’iiji din",
+    "english": "the times"
+  },
+  {
+    "pulaar": "nalaande nden",
+    "english": "the day"
+  },
+  {
+    "pulaar": "balde nden",
+    "english": "the days"
+  },
+  {
+    "pulaar": "yontere nden",
+    "english": "the week"
+  },
+  {
+    "pulaar": "jonte den",
+    "english": "the weeks"
+  },
+  {
+    "pulaar": "lewru ndun",
+    "english": "the month"
+  },
+  {
+    "pulaar": "lebbi din",
+    "english": "the months"
+  },
+  {
+    "pulaar": "hitaande nden",
+    "english": "the year"
+  },
+  {
+    "pulaar": "duubi din",
+    "english": "the years"
+  },
+  {
+    "pulaar": "hannde",
+    "english": "today"
+  },
+  {
+    "pulaar": "janngo",
+    "english": "tomorrow"
+  },
+  {
+    "pulaar": "fabbi-janngo",
+    "english": "day after tomorrow"
+  },
+  {
+    "pulaar": "hanki",
+    "english": "yesterday"
+  },
+  {
+    "pulaar": "hecci-hanki",
+    "english": "day before yesterday"
+  },
+  {
+    "pulaar": "ontuma",
+    "english": "then; at that time"
+  },
+  {
+    "pulaar": "woo, kala",
+    "english": "each; every"
+  },
+  {
+    "pulaar": "ado",
+    "english": "before"
+  },
+  {
+    "pulaar": "doo e…",
+    "english": "between now and…"
+  },
+  {
+    "pulaar": "si",
+    "english": "if, when , before"
+  },
+  {
+    "pulaar": "tuma",
+    "english": "when (habitual; future)"
+  },
+  {
+    "pulaar": "nde",
+    "english": "when (future)"
+  },
+  {
+    "pulaar": "fewndo",
+    "english": "when (past)"
+  },
+  {
+    "pulaar": "wonnde wonnde",
+    "english": "sometimes"
+  },
+  {
+    "pulaar": "saa’i goo",
+    "english": "sometimes"
+  },
+  {
+    "pulaar": "tuma goo",
+    "english": "sometimes"
+  },
+  {
+    "pulaar": "soono woo",
+    "english": "sometimes"
+  },
+  {
+    "pulaar": "kenen",
+    "english": "often"
+  },
+  {
+    "pulaar": "si tawii",
+    "english": "if it turns out that"
+  },
+  {
+    "pulaar": "ko adii kon…",
+    "english": "first of all"
+  },
+  {
+    "pulaar": "si dun feyyi…",
+    "english": "after that happens…"
+  },
+  {
+    "pulaar": "kisan, do e don",
+    "english": "immediately"
+  },
+  {
+    "pulaar": "jooni jooni",
+    "english": "very soon"
+  },
+  {
+    "pulaar": "sariire (sariije (pl))",
+    "english": "rabbit(s)"
+  },
+  {
+    "pulaar": "yeddondirgol",
+    "english": "to argue"
+  },
+  {
+    "pulaar": "anngal",
+    "english": "lack, absence"
+  },
+  {
+    "pulaar": "saanugol",
+    "english": "to tie up an animal to graze"
+  },
+  {
+    "pulaar": "bonnugol",
+    "english": "to do wrong"
+  },
+  {
+    "pulaar": "haylugol hoore",
+    "english": "to shake one’s head"
+  },
+  {
+    "pulaar": "sitta…edii",
+    "english": "better to .. than to"
+  },
+  {
+    "pulaar": "bortugol",
+    "english": "to untie"
+  },
+  {
+    "pulaar": "laatagol",
+    "english": "to happen"
+  },
+  {
+    "pulaar": "fitagol",
+    "english": "to thrash about"
+  },
+  {
+    "pulaar": "kori jam?",
+    "english": "what’s wrong?"
+  },
+  {
+    "pulaar": "fellugol",
+    "english": "to shoot"
+  },
+  {
+    "pulaar": "kural (kure (pl))",
+    "english": "bullet(s)"
+  },
+  {
+    "pulaar": "bantugol",
+    "english": "to raise"
+  },
+  {
+    "pulaar": "haynagol",
+    "english": "to see from a distance"
+  },
+  {
+    "pulaar": "finkaari",
+    "english": "rifle"
+  },
+  {
+    "pulaar": "nafa",
+    "english": "benefit"
+  },
+  {
+    "pulaar": "sikkugol",
+    "english": "to think, to believe"
+  },
+  {
+    "pulaar": "mi sikki ko o biddo cerno",
+    "english": "I think he’s cerno’s son"
+  },
+  {
+    "pulaar": "mi, min",
+    "english": "I"
+  },
+  {
+    "pulaar": "a sikkay ko o pullo",
+    "english": "you’d think he was a pullo"
+  },
+  {
+    "pulaar": "mido sikkude mi yahay",
+    "english": "I’m thinking i’ll go"
+  },
+  {
+    "pulaar": "woo o wallay men, kono mido sikki",
+    "english": "He says he’ll help us, but I’m not sure"
+  },
+  {
+    "pulaar": "hari mi sikki ko samakala",
+    "english": "i thought it was a joke (preterit)"
+  },
+  {
+    "pulaar": "mi sikkuno ko samakala",
+    "english": "I thought it was a joke"
+  },
+  {
+    "pulaar": "mi sikki hibe daani?",
+    "english": "perhaps they are sleeping?"
+  },
+  {
+    "pulaar": "ko beynguure kala haani anndude fii laabal",
+    "english": "What every family should know about hygiene (proprete)"
+  },
+  {
+    "pulaar": "soodagol",
+    "english": "to wash hands"
+  },
+  {
+    "pulaar": "hadugol",
+    "english": "to prevent"
+  },
+  {
+    "pulaar": "hittugol",
+    "english": "to be important"
+  },
+  {
+    "pulaar": "ontigi",
+    "english": "one, someone"
+  },
+  {
+    "pulaar": "labbingol",
+    "english": "to clean up"
+  },
+  {
+    "pulaar": "resagol",
+    "english": "to defecate (high respect)"
+  },
+  {
+    "pulaar": "hawkugol",
+    "english": "to discard, to throw away"
+  },
+  {
+    "pulaar": "bennugol",
+    "english": "to swallow"
+  },
+  {
+    "pulaar": "loowugol",
+    "english": "to pour"
+  },
+  {
+    "pulaar": "e kene",
+    "english": "sometimes"
+  },
+  {
+    "pulaar": "caangol ngol (candi din)",
+    "english": "the stream(s)"
+  },
+  {
+    "pulaar": "wonyndu ndun (boyli din)",
+    "english": "well (egout)"
+  },
+  {
+    "pulaar": "ko hasii kon",
+    "english": "usually"
+  },
+  {
+    "pulaar": "fatingol",
+    "english": "to bring to a boil"
+  },
+  {
+    "pulaar": "buttingol",
+    "english": "to allow to cool"
+  },
+  {
+    "pulaar": "layugol",
+    "english": "to spread"
+  },
+  {
+    "pulaar": "ko dun wadi si",
+    "english": "that’s why…"
+  },
+  {
+    "pulaar": "tawugol",
+    "english": "to find (in connection with a person or a situation)"
+  },
+  {
+    "pulaar": "mi tawete ka saare",
+    "english": "I’ll meet you in town"
+  },
+  {
+    "pulaar": "o tawii hay gooto alaa ka suudu",
+    "english": "he discovered no one was home"
+  },
+  {
+    "pulaar": "tawi o alaa ton",
+    "english": "he wasn’t there"
+  },
+  {
+    "pulaar": "taway be yahii",
+    "english": "(you’ll find) they’ve left"
+  },
+  {
+    "pulaar": "mi anndaa ko o yahi",
+    "english": "I don’t know that she went"
+  },
+  {
+    "pulaar": "ko faaladaa?",
+    "english": "what do you want?"
+  },
+  {
+    "pulaar": "ko handunodaa arude?",
+    "english": "why didn’t you come (literally, had prevented you from coming?)"
+  },
+  {
+    "pulaar": "ka yahunodaa?",
+    "english": "where’d you go?"
+  },
+  {
+    "pulaar": "haray",
+    "english": "probably"
+  },
+  {
+    "pulaar": "haray mi artaali",
+    "english": "i probably wont’t have returned"
+  },
+  {
+    "pulaar": "haray himo ton",
+    "english": "he is probably there"
+  },
+  {
+    "pulaar": "haray himo janngude",
+    "english": "he is probably studying"
+  },
+  {
+    "pulaar": "si a yahaano, harayno moyyaa",
+    "english": "if you hadn’t gone, it would have been bad"
+  },
+  {
+    "pulaar": "o yahi hara himo anndi be alaa ton",
+    "english": "she went knowing they weren’t there"
+  },
+  {
+    "pulaar": "addu ndiyan hara a hibbaali dan",
+    "english": "bring the water without spilling it"
+  },
+  {
+    "pulaar": "mi yahay hara wonaa hannde",
+    "english": "I’ll go but not today"
+  },
+  {
+    "pulaar": "faatagol",
+    "english": "pass away (high respect)"
+  },
+  {
+    "pulaar": "lontagol",
+    "english": "succeed"
+  },
+  {
+    "pulaar": "gedal",
+    "english": "Child, heir"
+  },
+  {
+    "pulaar": "A mo B",
+    "english": "A son of B"
+  },
+  {
+    "pulaar": "feere",
+    "english": "different, separate"
+  },
+  {
+    "pulaar": "taaraajo",
+    "english": "slave wife, concubine"
+  },
+  {
+    "pulaar": "surrugol",
+    "english": "to bury"
+  },
+  {
+    "pulaar": "Lando",
+    "english": "chief"
+  },
+  {
+    "pulaar": "Lambe",
+    "english": "chiefs"
+  },
+  {
+    "pulaar": "tummbindirgol",
+    "english": "gather together"
+  },
+  {
+    "pulaar": "bayti",
+    "english": "since"
+  },
+  {
+    "pulaar": "huuwugol",
+    "english": "do (realize things)"
+  },
+  {
+    "pulaar": "laamu",
+    "english": "kingship, government"
+  },
+  {
+    "pulaar": "sahindingol",
+    "english": "assassinate"
+  },
+  {
+    "pulaar": "woowugol",
+    "english": "have the habit of"
+  },
+  {
+    "pulaar": "nanndugol",
+    "english": "resemble"
+  },
+  {
+    "pulaar": "ngayuuri",
+    "english": "lion"
+  },
+  {
+    "pulaar": "tagudi",
+    "english": "build, shape, appearance"
+  },
+  {
+    "pulaar": "hito",
+    "english": "noise, voice"
+  },
+  {
+    "pulaar": "unsagol",
+    "english": "growl"
+  },
+  {
+    "pulaar": "suudugol",
+    "english": "hide"
+  },
+  {
+    "pulaar": "taarugol",
+    "english": "crown the royal turban"
+  },
+  {
+    "pulaar": "janfa",
+    "english": "treachery"
+  },
+  {
+    "pulaar": "konu",
+    "english": "army"
+  },
+  {
+    "pulaar": "fodde ko o hulbini",
+    "english": "he was so afraid that"
+  },
+  {
+    "pulaar": "jabbagol",
+    "english": "to receive"
+  },
+  {
+    "pulaar": "seenagol",
+    "english": "come (high respect)"
+  },
+  {
+    "pulaar": "yiltagol",
+    "english": "go back"
+  },
+  {
+    "pulaar": "luttugol",
+    "english": "remain"
+  },
+  {
+    "pulaar": "sakkagol",
+    "english": "ambush"
+  },
+  {
+    "pulaar": "tartugol",
+    "english": "go around, unrol sheet from the head"
+  },
+  {
+    "pulaar": "misiide",
+    "english": "center of town"
+  },
+  {
+    "pulaar": "hare",
+    "english": "battle"
+  },
+  {
+    "pulaar": "foolugol",
+    "english": "win"
+  },
+  {
+    "pulaar": "fellugol",
+    "english": "to shoot"
+  },
+  {
+    "pulaar": "soppitugol",
+    "english": "cut to pieces"
+  },
+  {
+    "pulaar": "fesugol",
+    "english": "weep"
+  },
+  {
+    "pulaar": "semmbugol",
+    "english": "to be fat"
+  },
+  {
+    "pulaar": "o semmbii",
+    "english": "he become fat"
+  },
+  {
+    "pulaar": "himo semmbi",
+    "english": "he is fat"
+  },
+  {
+    "pulaar": "ko hommbo semmbi?",
+    "english": "who is fat?"
+  },
+  {
+    "pulaar": "o semmbaa",
+    "english": "he is not fat"
+  },
+  {
+    "pulaar": "o semmbay",
+    "english": "he will get fat"
+  },
+  {
+    "pulaar": "himo semmbude",
+    "english": "he is getting fat"
+  },
+  {
+    "pulaar": "o semmbataa",
+    "english": "he will not get fat/he is not getting fat"
+  },
+  {
+    "pulaar": "o semmbuno",
+    "english": "he had become fat"
+  },
+  {
+    "pulaar": "himo semmbunoo",
+    "english": "he was fat"
+  },
+  {
+    "pulaar": "ko hommbo semmbunoo?",
+    "english": "who was fat"
+  },
+  {
+    "pulaar": "o semmbaano",
+    "english": "he wasn’t fat"
+  },
+  {
+    "pulaar": "o semmbayno",
+    "english": "he was going to get fat/ he would have gotten fat"
+  },
+  {
+    "pulaar": "o semmbataano",
+    "english": "he was not going to get fat/ he wouldn’t have gotten fat"
+  },
+  {
+    "pulaar": "daanagol",
+    "english": "to be asleep"
+  },
+  {
+    "pulaar": "o daanike",
+    "english": "she fell asleep"
+  },
+  {
+    "pulaar": "himo dannii",
+    "english": "she is asleep?"
+  },
+  {
+    "pulaar": "ko hommbo daanii?",
+    "english": "who is asleep?"
+  },
+  {
+    "pulaar": "o daanaaki",
+    "english": "she is not asleep"
+  },
+  {
+    "pulaar": "o daanoto",
+    "english": "she will fall asleep"
+  },
+  {
+    "pulaar": "himo daanaade",
+    "english": "she is sleeping/she is falling asleep"
+  },
+  {
+    "pulaar": "o daanataako",
+    "english": "she won’t sleep/she is not falling asleep"
+  },
+  {
+    "pulaar": "o daanino",
+    "english": "she had slept"
+  },
+  {
+    "pulaar": "himo daaninoo",
+    "english": "she was asleep"
+  },
+  {
+    "pulaar": "ko hommbo daaninoo?",
+    "english": "who was asleep?"
+  },
+  {
+    "pulaar": "o daananooki",
+    "english": "she wasn’t asleep"
+  },
+  {
+    "pulaar": "o daanotonoo",
+    "english": "she was going to sleep/she would have fallen asleep"
+  },
+  {
+    "pulaar": "weelegol",
+    "english": "to be hungry"
+  },
+  {
+    "pulaar": "o weelaama",
+    "english": "he become hungry"
+  },
+  {
+    "pulaar": "himo weelaa",
+    "english": "he is hungry"
+  },
+  {
+    "pulaar": "ko hommbo weelaa?",
+    "english": "who is hungry?"
+  },
+  {
+    "pulaar": "o weelete",
+    "english": "he will be hungry"
+  },
+  {
+    "pulaar": "himo weeleede",
+    "english": "he is getting hungry"
+  },
+  {
+    "pulaar": "o weeletaake",
+    "english": "he won’t be hungry/he wont’t become hungry"
+  },
+  {
+    "pulaar": "o weelaano",
+    "english": "he had become hungry"
+  },
+  {
+    "pulaar": "himo weelaanoo",
+    "english": "he was hungry"
+  },
+  {
+    "pulaar": "o weelaanooka",
+    "english": "he wasn’t hungry"
+  },
+  {
+    "pulaar": "o weeletenoo",
+    "english": "he was going to get hungry/ he would have gotten hungry"
+  },
+  {
+    "pulaar": "o weeletanooke",
+    "english": "he wouldn’t be hungry/ he wouldn’t have gotten hungry."
+  },
+  {
+    "pulaar": "yahugol",
+    "english": "to go"
+  },
+  {
+    "pulaar": "o yahii",
+    "english": "she went"
+  },
+  {
+    "pulaar": "himo yahi",
+    "english": "she gone (stative)"
+  },
+  {
+    "pulaar": "ko ka saare o yahi",
+    "english": "it’s to town that she went"
+  },
+  {
+    "pulaar": "o immike, o yahi",
+    "english": "she got up and went"
+  },
+  {
+    "pulaar": "o yahaali",
+    "english": "she didn’t go"
+  },
+  {
+    "pulaar": "himo yahude",
+    "english": "she is going"
+  },
+  {
+    "pulaar": "doo e o yahude",
+    "english": "before she goes"
+  },
+  {
+    "pulaar": "nannde woo himo yaha",
+    "english": "every day she goes"
+  },
+  {
+    "pulaar": "bee o yaho",
+    "english": "she must go"
+  },
+  {
+    "pulaar": "o immoto, o yaha",
+    "english": "she’ll get up and go"
+  },
+  {
+    "pulaar": "o yahay",
+    "english": "she will go"
+  },
+  {
+    "pulaar": "o yahay woni",
+    "english": "she is going (woni)"
+  },
+  {
+    "pulaar": "nannde woo o yahay",
+    "english": "every day she will go"
+  },
+  {
+    "pulaar": "ko ka saare o yahata",
+    "english": "it’s to town that she’ll go"
+  },
+  {
+    "pulaar": "o yahataa",
+    "english": "she won’t go"
+  },
+  {
+    "pulaar": "yahu!",
+    "english": "go!"
+  },
+  {
+    "pulaar": "woo yo o yahu",
+    "english": "(he said) she should go"
+  },
+  {
+    "pulaar": "o yahiino",
+    "english": "she had gone"
+  },
+  {
+    "pulaar": "himo yahunoo",
+    "english": "she was gone (stative)"
+  },
+  {
+    "pulaar": "ko ka saare o yahunoo",
+    "english": "it was to town that she’d gone"
+  },
+  {
+    "pulaar": "o yahaano",
+    "english": "she hadn’t gone"
+  },
+  {
+    "pulaar": "o yahayno",
+    "english": "she was going to go/she would have gone"
+  },
+  {
+    "pulaar": "o yahayno woni",
+    "english": "she would be going (woni)"
+  },
+  {
+    "pulaar": "nannde woo o yahayno (nannde woo himo yahayno)",
+    "english": "every day she would go (she would have gone)"
+  },
+  {
+    "pulaar": "ko ka saare o yahaynoo",
+    "english": "it’s to town that she would go"
+  },
+  {
+    "pulaar": "o yahataano",
+    "english": "she wouldn’t go"
+  },
+  {
+    "pulaar": "lootagol",
+    "english": "to wash oneself"
+  },
+  {
+    "pulaar": "o lootike",
+    "english": "she washed herself"
+  },
+  {
+    "pulaar": "himo lootii",
+    "english": "she washed herself (stative)"
+  },
+  {
+    "pulaar": "ko ka suudu o lootii",
+    "english": "it’s at home that she washed herself"
+  },
+  {
+    "pulaar": "o immike, o lootii",
+    "english": "she got up and washed herself"
+  },
+  {
+    "pulaar": "o lootaaki",
+    "english": "she didn’t wash herself"
+  },
+  {
+    "pulaar": "himo lootaade",
+    "english": "she is washing herself"
+  },
+  {
+    "pulaar": "doo e o lootaade",
+    "english": "before she washes herself"
+  },
+  {
+    "pulaar": "nannde woo himo lootoo",
+    "english": "every day she will was herself"
+  },
+  {
+    "pulaar": "bee o looto",
+    "english": "she must wash herself"
+  },
+  {
+    "pulaar": "o immoto, o lootoo",
+    "english": "she’ll get up and wash herself"
+  },
+  {
+    "pulaar": "o loototo",
+    "english": "she will was herself"
+  },
+  {
+    "pulaar": "o loototo woni",
+    "english": "she will be washing herself (woni)"
+  },
+  {
+    "pulaar": "nannde woo o loototo",
+    "english": "every day she will wash herself"
+  },
+  {
+    "pulaar": "ko ka suudu o loototoo",
+    "english": "it’s at home that she’ll wash herself"
+  },
+  {
+    "pulaar": "o loototaako",
+    "english": "she won’t wash herself"
+  },
+  {
+    "pulaar": "looto!",
+    "english": "wash yourself!"
+  },
+  {
+    "pulaar": "woo yo o looto",
+    "english": "(He said) she should wash herself"
+  },
+  {
+    "pulaar": "o lootinooke",
+    "english": "she had washed herself"
+  },
+  {
+    "pulaar": "himo lootinoo",
+    "english": "she was washed (stative)"
+  },
+  {
+    "pulaar": "ko ka suudu o lootinoo",
+    "english": "it was at home that she had washed herself"
+  },
+  {
+    "pulaar": "o lootanooki",
+    "english": "she hadn’t washed herself"
+  },
+  {
+    "pulaar": "o loototono",
+    "english": "she would wash herself"
+  },
+  {
+    "pulaar": "o loototono woni",
+    "english": "she would be washing herself (woni)"
+  },
+  {
+    "pulaar": "nannde woo o loototono (nannde woo himo loototono)",
+    "english": "every day she would wash herself (he would wash himself)"
+  },
+  {
+    "pulaar": "ko ka suudu o loototonoo",
+    "english": "it’s at home that she would wash herself"
+  },
+  {
+    "pulaar": "o loototanooko",
+    "english": "she wouldn’t wash herself"
+  },
+  {
+    "pulaar": "piyegol",
+    "english": "to be beaten"
+  },
+  {
+    "pulaar": "o piyaama",
+    "english": "he was beaten"
+  },
+  {
+    "pulaar": "himo piyaa",
+    "english": "he has been beaten (stative)"
+  },
+  {
+    "pulaar": "ko ka lekkol o piyaa",
+    "english": "he got up and was beaten"
+  },
+  {
+    "pulaar": "o piyaaka",
+    "english": "he wasn’t beaten"
+  },
+  {
+    "pulaar": "himo piyeede",
+    "english": "he is being beaten"
+  },
+  {
+    "pulaar": "doo e o piyeede",
+    "english": "before he is beaten"
+  },
+  {
+    "pulaar": "nannde woo himo piyee",
+    "english": "every day he is beaten"
+  },
+  {
+    "pulaar": "bee o piyee",
+    "english": "he must be beaten"
+  },
+  {
+    "pulaar": "o immoto, o piyee",
+    "english": "He’ll get up and be beaten"
+  },
+  {
+    "pulaar": "o piyete",
+    "english": "he will be beaten"
+  },
+  {
+    "pulaar": "o piyete woni",
+    "english": "he is being beaten (woni)"
+  },
+  {
+    "pulaar": "nannde woo o piyetee",
+    "english": "every day he will be beaten"
+  },
+  {
+    "pulaar": "ko ka lekkol o piyetee",
+    "english": "it’s at school that he’ll be beaten"
+  },
+  {
+    "pulaar": "o piyetaake",
+    "english": "he won’t be beaten"
+  },
+  {
+    "pulaar": "woo yo o piyee",
+    "english": "(he said) he should be beaten"
+  },
+  {
+    "pulaar": "o piyanooma",
+    "english": "he had been beaten"
+  },
+  {
+    "pulaar": "himo piyanoo",
+    "english": "he had been beaten"
+  },
+  {
+    "pulaar": "ko ka lekkol o piyanoo",
+    "english": "it was at school that he’d been beaten"
+  },
+  {
+    "pulaar": "o piyanooka",
+    "english": "he hadn’t been beaten"
+  },
+  {
+    "pulaar": "o piyeteno",
+    "english": "he would be beaten"
+  },
+  {
+    "pulaar": "o piyeteno woni",
+    "english": "he was being beaten (woni)"
+  },
+  {
+    "pulaar": "nannde woo o piyeteno (nannde woo himo piyeteno)",
+    "english": "every day he would be beaten he would have been beaten)"
+  },
+  {
+    "pulaar": "ko ka lekkol o piyetenoo",
+    "english": "it’s at school that he would be beaten"
+  },
+  {
+    "pulaar": "o piyetanooke",
+    "english": "he wouldn’t be beaten"
+  }
+]
