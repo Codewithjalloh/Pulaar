@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fulani History - Fulani Culture Website</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <!-- Header and Navigation same as index.html -->
+    <header>
+      <nav id="navbar">
+        <ul>
+          <li><a href="{{ url_for('home') }}">Home</a></li>
+          <li><a href="{{ url_for('about') }}">About</a></li>
+          <li><a href="{{ url_for('fulani_history') }}">Fulani History</a></li>
+          <li><a href="{{ url_for('shop') }}">Shop</a></li>
+          <li><a href="{{ url_for('blog') }}">Blog</a></li>
+          <li><a href="{{ url_for('contact_us') }}">About Us</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Fulani History</h1>
+      <p>This page details the history of the Fulani people.</p>
+    </main>
+
+    <!-- Footer same as index.html -->
+    <footer>
+      <p>&copy; 2023 Fulani Culture Website</p>
+    </footer>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>
