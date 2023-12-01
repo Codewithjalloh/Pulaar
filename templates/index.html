@@ -33,10 +33,28 @@
         class="form-control mb-2"
         placeholder="Enter English word"
       />
+      <!-- Existing translate button -->
       <button id="translateButton" class="btn btn-success mb-2">
         Translate
       </button>
+
+      <!-- Clear button -->
+      <button id="clearButton" class="btn btn-secondary mb-2">Clear</button>
+      <!-- Voice Record button (Speech-to-Text) -->
+      <button id="voiceRecordButton" class="btn btn-primary mb-2">
+        Voice Record
+      </button>
+
+      <!-- Speak button (Text-to-Speech) -->
+      <button id="speakButton" class="btn btn-info mb-2">Speak</button>
+
       <div id="translationResult" class="text-center"></div>
+
+      <!-- New div for previous translations -->
+      <div id="previousTranslations" class="previous-translations-container">
+        <h3>Previous Translations</h3>
+        <ul id="translationsList"></ul>
+      </div>
     </main>
 
     <footer>
