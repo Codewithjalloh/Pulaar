@@ -91,3 +91,19 @@ main h2 {
   text-align: center; /* Center align headers */
   font-family: 'Arial', sans-serif;
 }
+
+/* Style for paragraphs */
+main p {
+  color: #333; /* Darker text for readability */
+  line-height: 1.6; /* Spacing between lines */
+  text-align: justify; /* Justify align paragraphs */
+  margin-bottom: 15px;
+}
+
+/* Additional styling for the first paragraph for emphasis */
+main p:first-of-type {
+  font-weight: bold;
+  color: #555;
+}
+
+/* END OF MAIN  */
