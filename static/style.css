@@ -83,3 +83,11 @@ main {
   margin: auto; /* Center the content */
 }
 
+/* Style for headers */
+main h1,
+main h2 {
+  color: #007bff; /* A blue color for headers */
+  margin-bottom: 15px;
+  text-align: center; /* Center align headers */
+  font-family: 'Arial', sans-serif;
+}
