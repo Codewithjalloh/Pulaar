@@ -28,7 +28,73 @@
 
     <main>
       <h1>Shop</h1>
-      <p>This page features products related to Fulani culture for purchase.</p>
+      <div class="products-row">
+        <!-- Repeat this block for each product -->
+        <div class="product-card">
+          <img
+            src="{{ url_for('static', filename='images/fulani_boy.jpg') }}"
+            alt="Fulani Boy"
+            class="product-image"
+          />
+          <h3 class="product-title">The Adventures of the Mighty Fulani Boy</h3>
+          <p class="product-description">
+            Fierce and Fearless: The Story of a Brave Fulani Boy" is a
+            children's book that tells the tale of a young and courageous Fulani
+            boy who rises to the challenge and becomes a hero in his own right.
+          </p>
+          <button
+            class="btn buy-button"
+            data-url="https://www.amazon.co.uk/Adventures-Mighty-Fulani-Boy-Fearless/dp/B0BVCWQRDQ"
+          >
+            Buy Now
+          </button>
+        </div>
+        <!-- Repeat the above block for each product (total of six times) -->
+        <div class="product-card">
+          <img
+            src="{{ url_for('static', filename='images/tilly.jpg') }}"
+            alt="Fulani Boy"
+            class="product-image"
+          />
+          <h3 class="product-title">
+            Tilly's Tech Tales: Exploring the Future with Fun and Adventure
+          </h3>
+          <p class="product-description">
+            Tilly is a tech-savvy girl who loves nothing more than to play with
+            her high-tech gadgets. Join Tilly on her first adventure as she uses
+            her technology to make learning fun, solve mysteries, and embark on
+            a tech-powered mission to space.
+          </p>
+          <button
+            class="btn buy-button"
+            data-url="https://www.amazon.co.uk/Tillys-Tech-Tales-Exploring-Adventure/dp/B0BW326JMJ/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1701610441&sr=1-3"
+          >
+            Buy Now
+          </button>
+        </div>
+        <div class="product-card">
+          <img
+            src="{{ url_for('static', filename='images/dreamer.jpg') }}"
+            alt="Fulani Boy"
+            class="product-image"
+          />
+          <h3 class="product-title">
+            TThe Digital Dreamer: An African Teen's Journey to Empower his
+            Village with Technology
+          </h3>
+          <p class="product-description">
+            The Digital Dreamer: An African Teen's Journey to Empower his
+            Village with Technology" is a story about a young African man named
+            Elijah who becomes interested in technology and entrepreneurship.
+          </p>
+          <button
+            class="btn buy-button"
+            data-url="https://www.amazon.co.uk/Digital-Dreamer-African-Journey-Technology/dp/B0BW2ZSLJ6/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1701610331&sr=1-2"
+          >
+            Buy Now
+          </button>
+        </div>
+      </div>
     </main>
 
     <!-- Footer same as index.html -->
