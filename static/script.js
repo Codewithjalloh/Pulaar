@@ -62,3 +62,45 @@ document.addEventListener('DOMContentLoaded', function () {
       recognition.start();
     });
 });
+
+// CONTACT US FORM
+
+document.addEventListener('DOMContentLoaded', function () {
+  document
+    .getElementById('contactForm')
+    .addEventListener('submit', function (event) {
+      event.preventDefault();
+
+      const name = document.getElementById('name').value;
+      const email = document.getElementById('email').value;
+      const message = document.getElementById('message').value;
+
+      // Here you would typically send this data to a server
+      // For demonstration, we'll just display a confirmation message
+
+      document.getElementById('formOutput').innerHTML =
+        'Thank you, ' +
+        name +
+        '. Your message has been received. We will contact you at ' +
+        email +
+        ' if a response is necessary.';
+
+      // Clear the form fields
+      document.getElementById('contactForm').reset();
+    });
+});
+
+// PRODUCT CARD LINK
+
+document.addEventListener('DOMContentLoaded', function () {
+  // Attach the click event listener to the entire document
+  document.addEventListener('click', function (event) {
+    // Check if the clicked element is a buy-button
+    if (event.target && event.target.matches('.buy-button')) {
+      // Retrieve the URL from the data-url attribute
+      const productUrl = event.target.getAttribute('data-url');
+      // Open the URL in a new tab
+      window.open(productUrl, '_blank');
+    }
+  });
+});
