@@ -104,3 +104,16 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 });
+
+
+// Blog
+document.addEventListener('DOMContentLoaded', function () {
+  const readMoreButtons = document.querySelectorAll('.read-more-btn');
+
+  readMoreButtons.forEach((button) => {
+    button.addEventListener('click', function () {
+      alert('More post content will be loaded!');
+      // Here you might load more content dynamically
+    });
+  });
+});
