@@ -1,87 +1,107 @@
 <!DOCTYPE html>
+<!-- Defines the document type and HTML version -->
 <html lang="en">
+  <!-- Start of the HTML document with language set to English -->
+
   <head>
+    <!-- Head section containing meta, title, link, and script tags -->
     <meta charset="UTF-8" />
+    <!-- Sets the character encoding for the document -->
     <title>About Us - Fulani Culture Website</title>
+    <!-- Title of the webpage -->
+
+    <!-- Link to the external CSS file for styling -->
     <link
       rel="stylesheet"
       type="text/css"
       href="{{ url_for('static', filename='style.css') }}"
     />
 
+    <!-- Link to the jQuery library for JavaScript functionality -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   </head>
+
   <body>
-    <!-- Header and Navigation same as index.html -->
+    <!-- Start of the body section of the webpage -->
+    <!-- Header section of the webpage -->
     <header>
+      <!-- Navigation bar -->
       <nav id="navbar">
+        <!-- Unordered list for navigation links -->
         <ul>
+          <!-- List item containing a link to the Home page -->
           <li><a href="{{ url_for('home') }}">Home</a></li>
+          <!-- List item containing a link to the About page -->
           <li><a href="{{ url_for('about') }}">About</a></li>
+          <!-- List item containing a link to the Fulani History page -->
           <li><a href="{{ url_for('fulani_history') }}">Fulani History</a></li>
+          <!-- List item containing a link to the Shop page -->
           <li><a href="{{ url_for('shop') }}">Shop</a></li>
+          <!-- List item containing a link to the Blog page -->
           <li><a href="{{ url_for('blog') }}">Blog</a></li>
+          <!-- List item containing a link to the About Us page -->
           <li><a href="{{ url_for('contact_us') }}">About Us</a></li>
         </ul>
       </nav>
     </header>
 
+    <!-- Main content area -->
     <main class="container">
+      <!-- Heading 1 for the main title -->
       <h1>Connect With Us</h1>
 
+      <!-- Subheading for a section -->
       <h3>We're Here to Listen</h3>
+      <!-- Paragraph providing details under the subheading -->
       <p>
         At Pulaar Translator, we believe in the power of communication and
-        community. Whether you have questions about the Fulani language, need
-        assistance with our translation services, or simply want to share your
-        insights and stories, we're here to listen.
+        community...
       </p>
 
+      <!-- Another subheading -->
       <h3>Reach Out Anytime</h3>
+      <!-- Another paragraph providing details -->
+      <p>Your thoughts and feedback are invaluable to us...</p>
 
-      <p>
-        Your thoughts and feedback are invaluable to us. They help us improve,
-        grow, and better serve our community. Whether it's a suggestion, a
-        cultural exchange, or a business inquiry, don't hesitate to reach out.
-        We're committed to responding promptly and thoughtfully.
-      </p>
-
+      <!-- Another subheading -->
       <h3>Join Our Cultural Journey</h3>
+      <!-- Another paragraph providing details -->
+      <p>Contact us to learn more, engage with our mission...</p>
 
-      <p>
-        Contact us to learn more, engage with our mission, or become a part of
-        our ever-growing cultural mosaic. Your voice matters in this journey of
-        preserving and celebrating the rich heritage of the Fulani people.
-      </p>
-
+      <!-- Another subheading -->
       <h3>Let's Connect and Cultivate Understanding</h3>
+      <!-- Another paragraph providing details -->
+      <p>Fill out the form below or reach us through our email...</p>
 
-      <p>
-        Fill out the form below or reach us through our email or social media
-        channels. We're excited to hear from you and look forward to each
-        conversation that helps bridge cultures and build understanding.
-      </p>
-
+      <!-- Contact form -->
       <form id="contactForm">
+        <!-- Label and input field for name -->
         <label for="name">Name:</label><br />
         <input type="text" id="name" name="name" required /><br />
 
+        <!-- Label and input field for email -->
         <label for="email">Email:</label><br />
         <input type="email" id="email" name="email" required /><br />
 
+        <!-- Label and textarea for message -->
         <label for="message">Message:</label><br />
         <textarea id="message" name="message" required></textarea><br />
 
+        <!-- Submit button for the form -->
         <input type="submit" value="Submit" class="btn btn-primary" />
       </form>
 
+      <!-- Div to display the output from the form submission -->
       <div id="formOutput" class="form-output"></div>
     </main>
 
-    <!-- Footer same as index.html -->
+    <!-- Footer section of the webpage -->
     <footer>
+      <!-- Footer content -->
       <p>&copy; 2023 Fulani Culture Website</p>
     </footer>
+
+    <!-- Link to the external JavaScript file -->
     <script src="{{ url_for('static', filename='script.js') }}"></script>
   </body>
 </html>
