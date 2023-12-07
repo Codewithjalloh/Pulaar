@@ -39,14 +39,23 @@ def blog():
 def contact_us():
     return render_template('contact_us.html')  # Render and return the contact_us.html template
 
-# Route for handling translation requests, accessible via POST requests
 @app.route('/translate', methods=['POST'])
 def translate():
     data = request.json  # Get the JSON data sent from the client
     english_word = data['word'].lower()  # Extract the English word from the data and convert to lowercase
-    # Find the translation in the translations dictionary or return 'Translation not found'
-    translation = next((item['pulaar'] for item in translations if item['english'].lower() == english_word), "Translation not found")
+
+    # Find translations that contain the English word (partial match)
+    matches = [item['pulaar'] for item in translations if english_word in item['english'].lower()]
+
+    # If one or more matches are found, join them into a single string
+    if matches:
+        translation = ', '.join(matches)
+    else:
+        # If no matches are found, return 'Translation not found'
+        translation = "Translation not found"
+
     return jsonify(translation=translation)  # Return the translated text as JSON
+
 
 # Check if this script is the main program and not being imported as a module
 if __name__ == '__main__':
