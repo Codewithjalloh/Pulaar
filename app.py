@@ -45,21 +45,24 @@ def translate():
     data = request.json
     english_word = data['word'].lower()
 
-    # Construct a dictionary with English words as keys and Pulaar translations as values
-    eng_to_pulaar_dict = {item['english'].lower(): item['pulaar'] for item in translations}
+    # First, check for an exact match in the translations
+    exact_match = next((item['pulaar'] for item in translations if item['english'].lower() == english_word), None)
 
-    # Using fuzzywuzzy to find the closest match from the keys of the dictionary
-    match, score = process.extractOne(english_word, eng_to_pulaar_dict.keys())
-
-    # Setting a threshold for matching (e.g., 60)
-    if score >= 60:  # Adjust the threshold as needed
-        # Fetch the translation from the dictionary using the matched key
-        translation = eng_to_pulaar_dict[match]
+    if exact_match:
+        # If an exact match is found, use it
+        translation = exact_match
     else:
-        translation = "Translation not found"
+        # If no exact match, use fuzzy matching
+        eng_to_pulaar_dict = {item['english'].lower(): item['pulaar'] for item in translations}
+        match, score = process.extractOne(english_word, eng_to_pulaar_dict.keys())
+
+        # Setting a threshold for fuzzy matching (e.g., 80)
+        if score >= 80:  # Adjust the threshold as needed
+            translation = eng_to_pulaar_dict[match]
+        else:
+            translation = "Translation not found"
 
     return jsonify(translation=translation)
-
 
 
 
