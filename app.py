@@ -42,20 +42,25 @@ def contact_us():
 
 @app.route('/translate', methods=['POST'])
 def translate():
-    data = request.json  # Get the JSON data sent from the client
-    english_word = data['word'].lower()  # Extract the English word from the data and convert to lowercase
+    data = request.json
+    english_word = data['word'].lower()
 
-    # Find translations that contain the English word (partial match)
-    matches = [item['pulaar'] for item in translations if english_word in item['english'].lower()]
+    # Construct a dictionary with English words as keys and Pulaar translations as values
+    eng_to_pulaar_dict = {item['english'].lower(): item['pulaar'] for item in translations}
 
-    # If one or more matches are found, join them into a single string
-    if matches:
-        translation = ', '.join(matches)
+    # Using fuzzywuzzy to find the closest match from the keys of the dictionary
+    match, score = process.extractOne(english_word, eng_to_pulaar_dict.keys())
+
+    # Setting a threshold for matching (e.g., 60)
+    if score >= 60:  # Adjust the threshold as needed
+        # Fetch the translation from the dictionary using the matched key
+        translation = eng_to_pulaar_dict[match]
     else:
-        # If no matches are found, return 'Translation not found'
         translation = "Translation not found"
 
-    return jsonify(translation=translation)  # Return the translated text as JSON
+    return jsonify(translation=translation)
+
+
 
 
 # Check if this script is the main program and not being imported as a module
