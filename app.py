@@ -1,6 +1,7 @@
 # Import necessary modules from Flask and standard library
 from flask import Flask, render_template, request, jsonify
 import json
+from fuzzywuzzy import process
 
 # Create an instance of the Flask class. This instance will be the WSGI application.
 app = Flask(__name__)
