@@ -68,27 +68,6 @@ def contact_us():
 
 #     return jsonify(translation=translation)  # Return the translated text as JSON
 
-# @app.route('/translate', methods=['POST'])
-# def translate():
-#     data = request.json
-#     english_word = data['word'].lower()
-
-#     # Construct a dictionary with English words as keys and Pulaar translations as values
-#     eng_to_pulaar_dict = {item['english'].lower(): item['pulaar'] for item in translations}
-
-#     # Using fuzzywuzzy to find the closest match from the keys of the dictionary
-#     match, score = process.extractOne(english_word, eng_to_pulaar_dict.keys())
-
-#     # Setting a threshold for matching (e.g., 60)
-#     if score >= 60:  # Adjust the threshold as needed
-#         # Fetch the translation from the dictionary using the matched key
-#         translation = eng_to_pulaar_dict[match]
-#     else:
-#         translation = "Translation not found"
-
-#     return jsonify(translation=translation)
-
-
 
 @app.route('/translate', methods=['POST'])
 def translate():
