@@ -51,24 +51,6 @@ def contact_us():
 
 
 
-# @app.route('/translate', methods=['POST'])
-# def translate():
-#     data = request.json  # Get the JSON data sent from the client
-#     english_word = data['word'].lower()  # Extract the English word from the data and convert to lowercase
-
-#     # Find translations that contain the English word (partial match)
-#     matches = [item['pulaar'] for item in translations if english_word in item['english'].lower()]
-
-#     # If one or more matches are found, join them into a single string
-#     if matches:
-#         translation = ', '.join(matches)
-#     else:
-#         # If no matches are found, return 'Translation not found'
-#         translation = "Translation not found"
-
-#     return jsonify(translation=translation)  # Return the translated text as JSON
-
-
 @app.route('/translate', methods=['POST'])
 def translate():
     data = request.json
